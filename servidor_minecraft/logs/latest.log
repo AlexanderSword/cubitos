@@ -278,3 +278,32 @@
 [07:26:17] [Server thread/INFO]: Yisus1999 joined the game
 [07:26:17] [Server thread/INFO]: Yisus1999[/127.151.141.217:53827] logged in with entity id 30821 at ([world]45.07865137233246, 3.0, -1223.6935813504945)
 [07:34:46] [Server thread/INFO]: MS_iAlexis has made the advancement [A Seedy Place]
+[07:40:36] [Async Chat Thread - #20/INFO]: [Not Secure] <MS_iAlexis> zzzzzz
+[07:40:39] [Async Chat Thread - #21/INFO]: [Not Secure] <JoseRF> zzz
+[07:40:48] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
+[07:40:48] [Server thread/INFO]: Yisus1999 left the game
+[07:40:51] [Async Chat Thread - #21/INFO]: [Not Secure] <Johaanw> zzz
+[07:41:03] [User Authenticator #5/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
+[07:41:04] [Server thread/INFO]: Yisus1999 joined the game
+[07:41:04] [Server thread/INFO]: Yisus1999[/127.151.141.217:49907] logged in with entity id 35469 at ([world]88.42871672589717, 24.0, -1167.7503459588386)
+[07:43:19] [Server thread/INFO]: JoseRF has made the advancement [Voluntary Exile]
+[07:43:28] [Server thread/INFO]: Yisus1999 issued server command: /back Johaanw
+[07:43:31] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[07:43:31] [Server thread/INFO]: Johaanw left the game
+[07:43:38] [User Authenticator #6/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[07:43:38] [Server thread/INFO]: Johaanw joined the game
+[07:43:38] [Server thread/INFO]: Johaanw[/127.180.57.64:49151] logged in with entity id 36268 at ([world]142.97304750883205, 63.0, -1152.1265997306903)
+[07:43:41] [Async Chat Thread - #22/INFO]: [Not Secure] <Johaanw> ./tpa
+[07:43:49] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[07:43:51] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[07:44:58] [Server thread/INFO]: Johaanw fell from a high place
+[07:45:03] [Async Chat Thread - #24/INFO]: [Not Secure] <MS_iAlexis> xd
+[07:45:05] [Server thread/INFO]: Johaanw issued server command: /back
+[07:45:16] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
+[07:45:19] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[07:45:21] [Async Chat Thread - #24/INFO]: [Not Secure] <Yisus1999> xD
+[07:45:24] [Async Chat Thread - #24/INFO]: [Not Secure] <Johaanw> ;v
+[07:47:20] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[07:47:20] [Server thread/INFO]: Johaanw left the game
+[07:47:37] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
+[07:47:37] [Server thread/INFO]: Yisus1999 left the game
