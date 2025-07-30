@@ -188,3 +188,28 @@
 [06:42:28] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
 [06:42:48] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
 [06:42:50] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[06:49:01] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
+[06:49:04] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[06:49:33] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[06:49:33] [Server thread/INFO]: Johaanw left the game
+[06:49:49] [User Authenticator #4/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[06:49:49] [Server thread/INFO]: Johaanw joined the game
+[06:49:49] [Server thread/INFO]: Johaanw[/127.180.57.64:40189] logged in with entity id 34194 at ([world]-283.53042307470554, 80.1592101268059, -306.07103507542)
+[06:50:41] [Server thread/INFO]: Made Johaanw a server operator
+[06:50:48] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[06:50:48] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[06:51:11] [Server thread/INFO]: AimecitaPrOMG lost connection: Disconnected
+[06:51:11] [Server thread/INFO]: AimecitaPrOMG left the game
+[06:51:11] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[06:51:11] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[06:51:20] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[06:51:22] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[06:52:20] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
+[06:52:22] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[06:52:22] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[06:52:24] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[06:54:36] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
+[06:54:36] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
+[06:55:45] [Server thread/INFO]: XJeampier has made the advancement [Minecraft: Trial(s) Edition]
+[06:55:59] [Server thread/INFO]: Johaanw issued server command: /gamemode survival XJeampier
+[06:55:59] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Survival Mode]
