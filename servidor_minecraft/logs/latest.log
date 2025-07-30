@@ -157,3 +157,21 @@
 [06:18:45] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
 [06:18:47] [Server thread/INFO]: Johaanw issued server command: /tpaccept
 [06:23:00] [Async Chat Thread - #10/INFO]: [Not Secure] <AimecitaPrOMG> uwu
+[06:26:48] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
+[06:26:50] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[06:29:21] [Server thread/INFO]: Johaanw issued server command: /tpa AimecitaPrOMG
+[06:30:00] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
+[06:30:04] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[06:30:26] [Server thread/INFO]: Johaanw has made the advancement [Best Friends Forever]
+[06:33:32] [Server thread/INFO]: XJeampier lost connection: Disconnected
+[06:33:32] [Server thread/INFO]: XJeampier left the game
+[06:33:45] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[06:33:45] [Server thread/INFO]: Johaanw left the game
+[06:33:54] [User Authenticator #3/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[06:33:55] [Server thread/INFO]: Johaanw joined the game
+[06:33:55] [Server thread/INFO]: Johaanw[/127.180.57.64:53201] logged in with entity id 28950 at ([world]-391.7758044526038, 101.5625, -294.9226132538105)
+[06:34:07] [User Authenticator #3/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[06:34:08] [Server thread/INFO]: XJeampier joined the game
+[06:34:08] [Server thread/INFO]: XJeampier[/127.215.103.76:36575] logged in with entity id 28973 at ([world]32.07499998807907, 67.0, 812.4308833073154)
+[06:35:54] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[06:36:02] [Server thread/INFO]: XJeampier issued server command: /tpaccept
