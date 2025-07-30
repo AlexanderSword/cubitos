@@ -83,3 +83,17 @@
 [04:45:56] [User Authenticator #0/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
 [04:45:56] [Server thread/INFO]: Yisus1999 joined the game
 [04:45:56] [Server thread/INFO]: Yisus1999[/127.151.141.217:52969] logged in with entity id 415 at ([world]146.20377274739374, 63.0, -1152.8716030862258)
+[04:58:03] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
+[04:58:10] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[04:59:08] [User Authenticator #1/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[04:59:10] [Server thread/INFO]: XJeampier joined the game
+[04:59:10] [Server thread/INFO]: XJeampier[/127.215.103.76:35331] logged in with entity id 3005 at ([world]-33.5, 69.0, 31.5)
+[04:59:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> ./tpa
+[05:00:00] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[05:00:02] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:00:13] [Server thread/INFO]: XJeampier has made the advancement [Acquire Hardware]
+[05:00:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> ./tpa
+[05:00:34] [Server thread/INFO]: XJeampier has made the advancement [Isn't It Iron Pick]
+[05:01:31] [Server thread/INFO]: XJeampier was slain by Zombie
+[05:01:40] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[05:01:42] [Server thread/INFO]: Johaanw issued server command: /tpaccept
