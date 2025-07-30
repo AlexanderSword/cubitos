@@ -1,328 +1,126 @@
-[05:56:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[05:56:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[05:56:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:56:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[05:56:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[02:56:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[02:56:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[02:56:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:56:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[02:56:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - SimpleTpa (7.8), SkinsRestorer (15.7.7)
-[05:56:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:56:58] [ServerMain/INFO]: Loaded 1407 recipes
-[05:56:58] [ServerMain/INFO]: Loaded 1520 advancements
-[05:56:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[05:56:59] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 442.7ms
-[05:56:59] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[05:56:59] [Server thread/INFO]: Loading properties
-[05:56:59] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[05:56:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:56:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:56:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:56:59] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[05:57:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[05:57:00] [Server thread/INFO]: Default game type: SURVIVAL
-[05:57:00] [Server thread/INFO]: Generating keypair
-[05:57:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:57:00] [Server thread/INFO]: Using epoll channel type
-[05:57:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:57:00] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[05:57:00] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.8
-[05:57:00] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[05:57:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:57:00] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[05:57:01] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[05:57:02] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:57:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:57:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:57:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:57:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:57:02] [Server thread/INFO]: Preparing level "world"
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:57:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:57:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:57:02] [Server thread/INFO]: Preparing spawn area: 0%
-[05:57:03] [Server thread/INFO]: Preparing spawn area: 10%
-[05:57:03] [Server thread/INFO]: Time elapsed: 852 ms
-[05:57:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:57:03] [Server thread/INFO]: Preparing spawn area: 0%
-[05:57:03] [Server thread/INFO]: Time elapsed: 310 ms
-[05:57:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:57:03] [Server thread/INFO]: Preparing spawn area: 0%
-[05:57:04] [Server thread/INFO]: Time elapsed: 416 ms
-[05:57:04] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.8
-[05:57:04] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[05:57:04] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.8
-[05:57:04] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[05:57:04] [Server thread/INFO]: [spark] Starting background profiler...
-[05:57:05] [Server thread/INFO]: Done preparing level "world" (3.072s)
-[05:57:05] [Server thread/INFO]: Running delayed init tasks
-[05:57:05] [Server thread/INFO]: Done (16.433s)! For help, type "help"
-[05:57:17] [User Authenticator #0/INFO]: UUID of player LuisSt is 35a20ef9-e183-3f6d-8bf8-29f87f37c10e
-[05:57:17] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[05:57:18] [Server thread/INFO]: LuisSt joined the game
-[05:57:18] [Server thread/INFO]: LuisSt[/127.235.101.223:52979] logged in with entity id 8 at ([world]-23.5, 71.0, 23.5)
-[05:57:20] [User Authenticator #0/INFO]: UUID of player MS_iAlexis is 534c469a-bc95-3bf7-95a5-259a8515b99a
-[05:57:22] [Server thread/INFO]: MS_iAlexis joined the game
-[05:57:22] [Server thread/INFO]: MS_iAlexis[/127.31.185.165:50347] logged in with entity id 115 at ([world]-523.3000000119209, 40.0, 277.37697234808894)
-[06:01:54] [Server thread/INFO]: MS_iAlexis has made the advancement [Acquire Hardware]
-[06:02:12] [Server thread/INFO]: MS_iAlexis has made the advancement [Suit Up]
-[06:05:03] [Server thread/INFO]: LuisSt has made the advancement [Monster Hunter]
-[06:09:54] [Server thread/INFO]: LuisSt was shot by Skeleton
-[06:10:35] [Server thread/INFO]: MS_iAlexis has made the advancement [Isn't It Iron Pick]
-[06:10:53] [Server thread/INFO]: MS_iAlexis has made the advancement [Diamonds!]
-[06:13:21] [User Authenticator #1/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[06:13:22] [Server thread/INFO]: Johaanw joined the game
-[06:13:22] [Server thread/INFO]: Johaanw[/127.180.57.64:54813] logged in with entity id 4672 at ([world]-546.6494982195926, 68.0, 146.11304567587442)
-[06:19:47] [Server thread/INFO]: Johaanw issued server command: /tpa MS_iAlexis
-[06:19:58] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:20:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> crea portal
-[06:20:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> mira :v
-[06:21:07] [Async Chat Thread - #0/INFO]: [Not Secure] <MS_iAlexis> es mio
-[06:21:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> ;v
-[06:21:58] [Server thread/INFO]: MS_iAlexis has made the advancement [Hot Stuff]
-[06:22:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Johaanw> crea portal p
-[06:22:23] [Async Chat Thread - #2/INFO]: [Not Secure] <MS_iAlexis> no tengo manzanitas
-[06:22:26] [Server thread/INFO]: LuisSt has made the advancement [Stone Age]
-[06:22:51] [Server thread/INFO]: LuisSt has made the advancement [Getting an Upgrade]
-[06:23:11] [Server thread/INFO]: MS_iAlexis issued server command: /tpa LuisSt
-[06:24:02] [Async Chat Thread - #4/INFO]: [Not Secure] <MS_iAlexis> . /tpa
-[06:24:20] [Server thread/INFO]: LuisSt issued server command: /tpa MS_iAlexis
-[06:24:25] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:24:42] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:24:59] [Server thread/INFO]: LuisSt issued server command: /tpa MS_iAlexis
-[06:25:04] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:25:04] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:25:33] [Server thread/INFO]: LuisSt has made the advancement [Suit Up]
-[06:27:40] [Server thread/INFO]: LuisSt has made the advancement [Isn't It Iron Pick]
-[06:33:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> en tu inventario :v
-[06:33:34] [Async Chat Thread - #6/INFO]: [Not Secure] <LuisSt> a chi
-[06:34:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Escudo crafteen
-[06:34:18] [Async Chat Thread - #6/INFO]: [Not Secure] <MS_iAlexis> cierto
-[06:36:40] [Server thread/INFO]: MS_iAlexis has made the advancement [Cover Me with Diamonds]
-[06:36:56] [Server thread/INFO]: LuisSt has made the advancement [Acquire Hardware]
-[06:39:26] [User Authenticator #2/INFO]: UUID of player JoseRF is a051c480-6dd5-31f3-9223-ff2384516003
-[06:39:27] [Server thread/INFO]: JoseRF joined the game
-[06:39:27] [Server thread/INFO]: JoseRF[/127.68.154.244:52215] logged in with entity id 10622 at ([world]-18.68800747031858, 63.0, 38.61643975994493)
-[06:39:33] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[06:39:33] [Server thread/INFO]: Johaanw left the game
-[06:39:44] [Async Chat Thread - #8/INFO]: [Not Secure] <JoseRF> buenos dias xd
-[06:39:48] [User Authenticator #2/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[06:39:49] [Server thread/INFO]: Johaanw joined the game
-[06:39:49] [Server thread/INFO]: Johaanw[/127.180.57.64:47615] logged in with entity id 10827 at ([world]-459.5174607311821, 23.0, 312.33421947122605)
-[06:39:53] [Async Chat Thread - #8/INFO]: [Not Secure] <MS_iAlexis> Hola bb
-[06:40:01] [Async Chat Thread - #8/INFO]: [Not Secure] <LuisSt> BUENO, GRACIAS POR JUGAR HASTA MAÑANA
-[06:40:05] [Async Chat Thread - #8/INFO]: [Not Secure] <MS_iAlexis> xdddd
-[06:40:17] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[06:40:17] [Server thread/INFO]: Johaanw left the game
-[06:40:25] [User Authenticator #2/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[06:40:26] [Async Chat Thread - #8/INFO]: [Not Secure] <JoseRF> a xd
-[06:40:26] [Server thread/INFO]: Johaanw joined the game
-[06:40:26] [Server thread/INFO]: Johaanw[/127.180.57.64:48901] logged in with entity id 10962 at ([world]-492.35554161477927, 31.0, 315.2878269519217)
-[06:40:42] [User Authenticator #2/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
-[06:40:43] [Server thread/INFO]: Yisus1999 joined the game
-[06:40:43] [Server thread/INFO]: Yisus1999[/127.151.141.217:38757] logged in with entity id 11029 at ([world]-24.5, 66.0, 26.5)
-[06:40:50] [Async Chat Thread - #8/INFO]: [Not Secure] <Johaanw> mi pata
-[06:41:06] [Async Chat Thread - #8/INFO]: [Not Secure] <LuisSt> LOGICO
-[06:41:09] [Server thread/INFO]: JoseRF was slain by Zombie
-[06:41:12] [Server thread/INFO]: JoseRF has made the advancement [Monster Hunter]
-[06:41:29] [Server thread/INFO]: JoseRF issued server command: /tpm
-[06:41:38] [Server thread/INFO]: JoseRF issued server command: /tpa MS_iAlexis
-[06:41:46] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:42:01] [Server thread/INFO]: LuisSt has made the advancement [Not Today, Thank You]
-[06:42:03] [Async Chat Thread - #8/INFO]: [Not Secure] <MS_iAlexis> igualita tu skin
-[06:42:23] [Server thread/INFO]: JoseRF has made the advancement [Acquire Hardware]
-[06:43:04] [Async Chat Thread - #10/INFO]: [Not Secure] <LuisSt> FO}
-[06:43:06] [Server thread/INFO]: JoseRF has made the advancement [Isn't It Iron Pick]
-[06:43:10] [Server thread/INFO]: JoseRF has made the advancement [Stone Age]
-[06:43:17] [Async Chat Thread - #10/INFO]: [Not Secure] <LuisSt> CON TODO RESPETO
-[06:43:21] [Server thread/INFO]: JoseRF has made the advancement [Getting an Upgrade]
-[06:43:25] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
-[06:43:29] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[06:43:40] [Async Chat Thread - #10/INFO]: [Not Secure] <LuisSt> HAY WIFI EN SAN JOSE?
-[06:43:45] [Async Chat Thread - #10/INFO]: [Not Secure] <MS_iAlexis> XDDDDDDDD
-[06:43:45] [Async Chat Thread - #10/INFO]: [Not Secure] <JoseRF> que hago' :v
-[06:43:54] [Async Chat Thread - #10/INFO]: [Not Secure] <MS_iAlexis> sigueme jose rodas
-[06:43:54] [Server thread/INFO]: Yisus1999 issued server command: /skin veggeta
-[06:44:18] [Server thread/INFO]: Yisus1999 has made the advancement [Acquire Hardware]
-[06:44:28] [Async Chat Thread - #10/INFO]: [Not Secure] <MS_iAlexis> usa el escudo rodas
-[06:44:29] [Async Chat Thread - #10/INFO]: [Not Secure] <MS_iAlexis> xd
-[06:44:40] [Server thread/INFO]: Yisus1999 has made the advancement [Isn't It Iron Pick]
-[06:44:42] [Async Chat Thread - #10/INFO]: [Not Secure] <JoseRF> la mesa xd
-[06:44:49] [Server thread/INFO]: MS_iAlexis has made the advancement [Not Today, Thank You]
-[06:44:55] [Async Chat Thread - #10/INFO]: [Not Secure] <MS_iAlexis> ten
-[06:45:34] [Async Chat Thread - #10/INFO]: [Not Secure] <JoseRF> pal frio xd
-[06:45:40] [Async Chat Thread - #10/INFO]: [Not Secure] <MS_iAlexis> entra a discord ae
-[06:45:41] [Async Chat Thread - #10/INFO]: [Not Secure] <MS_iAlexis> xd
-[06:45:55] [Async Chat Thread - #10/INFO]: [Not Secure] <LuisSt> SA WBDA
-[06:46:22] [Server thread/INFO]: Yisus1999 issued server command: /skin willi
-[06:50:27] [Server thread/INFO]: JoseRF has made the advancement [Suit Up]
-[06:51:21] [Server thread/INFO]: Yisus1999 has made the advancement [Suit Up]
-[06:51:43] [Server thread/INFO]: LuisSt has made the advancement [Diamonds!]
-[06:53:15] [Server thread/INFO]: MS_iAlexis has made the advancement [Sneak 100]
-[06:54:37] [Server thread/INFO]: JoseRF has made the advancement [Not Today, Thank You]
-[06:56:14] [Server thread/INFO]: JoseRF issued server command: /tpa MS_iAlexis
-[06:56:21] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:56:36] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:57:53] [Server thread/INFO]: JoseRF issued server command: /tpa MS_iAlexis
-[06:57:57] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[06:58:13] [Server thread/INFO]: MS_iAlexis issued server command: /tpaccept
-[07:00:31] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> JOHAN TP COMIDA
-[07:00:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> no tengo :v
-[07:00:40] [Server thread/INFO]: LuisSt was slain by Zombie
-[07:00:47] [Server thread/INFO]: Johaanw issued server command: /tpa MS_iAlexis
-[07:00:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> acepta
-[07:00:52] [Server thread/INFO]: JoseRF has made the advancement [Diamonds!]
-[07:00:53] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> tengo 8 filetes
-[07:00:55] [Server thread/INFO]: MS_iAlexis was slain by Zombie
-[07:00:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> xd
-[07:01:05] [Server thread/INFO]: JoseRF tried to swim in lava to escape Zombie
-[07:01:08] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> JOHAN
-[07:01:10] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> xd
-[07:01:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> acepta tpa
-[07:01:14] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> para regresar pe
-[07:01:18] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> ya me mataron
-[07:01:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> mandale tpa
-[07:01:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> al que quedo ahí
-[07:01:36] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> ya murieron todos
-[07:01:37] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> xd
-[07:01:43] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> las coordenadas las saben?
-[07:01:51] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> no :c
-[07:01:52] [Server thread/INFO]: Johaanw issued server command: /back
-[07:01:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> presiona /back
-[07:02:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> escribe
-[07:02:02] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> y te gresa
-[07:02:02] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[07:02:04] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> regresa
-[07:02:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> a donde moriste
-[07:02:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> ./back
-[07:02:11] [Async Chat Thread - #12/INFO]: [Not Secure] <Yisus1999> CONFIRMO
-[07:02:12] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> no
-[07:02:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> si
-[07:02:15] [Async Chat Thread - #12/INFO]: [Not Secure] <MS_iAlexis> sale otro lado
-[07:02:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> xd
-[07:02:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Johaanw> tmr
-[07:02:20] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[07:02:28] [Server thread/INFO]: JoseRF issued server command: /back
-[07:02:30] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[07:02:34] [Server thread/INFO]: LuisSt issued server command: /back
-[07:02:52] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[07:02:58] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[07:03:04] [Server thread/INFO]: JoseRF issued server command: /back
-[07:03:10] [Server thread/INFO]: LuisSt issued server command: /back
-[07:03:12] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[07:03:35] [Server thread/INFO]: LuisSt lost connection: Disconnected
-[07:03:35] [Server thread/INFO]: LuisSt left the game
-[07:05:14] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
-[07:05:20] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[07:05:48] [Server thread/INFO]: Yisus1999 has made the advancement [Not Today, Thank You]
-[07:07:02] [Server thread/INFO]: MS_iAlexis fell from a high place
-[07:07:18] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
-[07:07:20] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[07:07:21] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[07:07:49] [Server thread/INFO]: Yisus1999 has made the advancement [Sweet Dreams]
-[07:08:32] [Async Chat Thread - #14/INFO]: [Not Secure] <MS_iAlexis> no vemos no hemos muero no tenemos nada :C
-[07:09:21] [Server thread/INFO]: Yisus1999 has made the advancement [Stone Age]
-[07:14:15] [Server thread/INFO]: Yisus1999 has made the advancement [Monster Hunter]
-[07:18:34] [Server thread/INFO]: JoseRF has made the advancement [A Seedy Place]
-[07:19:31] [Server thread/INFO]: Yisus1999 has made the advancement [Diamonds!]
-[07:24:30] [Server thread/INFO]: MS_iAlexis has made the advancement [The Parrots and the Bats]
-[07:24:43] [Server thread/INFO]: JoseRF has made the advancement [Sweet Dreams]
-[07:24:45] [Async Chat Thread - #16/INFO]: [Not Secure] <MS_iAlexis> ZZZ
-[07:24:51] [Async Chat Thread - #16/INFO]: [Not Secure] <Johaanw> pera
-[07:24:51] [Async Chat Thread - #17/INFO]: [Not Secure] <MS_iAlexis> zzzzz
-[07:24:53] [Async Chat Thread - #16/INFO]: [Not Secure] <MS_iAlexis> zzzz
-[07:24:53] [Async Chat Thread - #16/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:53] [Async Chat Thread - #16/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:53] [Async Chat Thread - #18/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:53] [Async Chat Thread - #18/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:53] [Async Chat Thread - #18/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Async Chat Thread - #19/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Async Chat Thread - #16/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Async Chat Thread - #19/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Async Chat Thread - #19/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Async Chat Thread - #17/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Async Chat Thread - #17/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Async Chat Thread - #19/INFO]: [Not Secure] <MS_iAlexis> z
-[07:24:54] [Server thread/INFO]: MS_iAlexis lost connection: Kicked for spamming
-[07:24:54] [Server thread/INFO]: MS_iAlexis left the game
-[07:24:57] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[07:24:57] [Server thread/INFO]: Johaanw left the game
-[07:24:58] [User Authenticator #3/INFO]: UUID of player MS_iAlexis is 534c469a-bc95-3bf7-95a5-259a8515b99a
-[07:25:00] [Server thread/INFO]: MS_iAlexis joined the game
-[07:25:00] [Server thread/INFO]: MS_iAlexis[/127.222.53.64:35703] logged in with entity id 30363 at ([world]-283.5, 64.5625, -89.5)
-[07:25:03] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
-[07:25:03] [Server thread/INFO]: Yisus1999 left the game
-[07:25:12] [User Authenticator #3/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[07:25:13] [Server thread/INFO]: Johaanw joined the game
-[07:25:13] [Server thread/INFO]: Johaanw[/127.180.57.64:55015] logged in with entity id 30391 at ([world]40.058223860757685, 4.0, -1219.8854185121759)
-[07:25:15] [Async Chat Thread - #19/INFO]: [Not Secure] <Johaanw> ya?
-[07:25:19] [Async Chat Thread - #19/INFO]: [Not Secure] <MS_iAlexis> todavia
-[07:25:21] [Async Chat Thread - #19/INFO]: [Not Secure] <Johaanw> es de día?
-[07:25:21] [Async Chat Thread - #19/INFO]: [Not Secure] <MS_iAlexis> salte
-[07:25:22] [Async Chat Thread - #19/INFO]: [Not Secure] <Johaanw> apura
-[07:25:22] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[07:25:22] [Server thread/INFO]: Johaanw left the game
-[07:26:13] [User Authenticator #4/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[07:26:14] [Server thread/INFO]: Johaanw joined the game
-[07:26:14] [Server thread/INFO]: Johaanw[/127.180.57.64:42901] logged in with entity id 30686 at ([world]40.0673718781749, 4.0, -1219.857812132771)
-[07:26:17] [User Authenticator #4/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
-[07:26:17] [Async Chat Thread - #19/INFO]: [Not Secure] <Johaanw> ya? :v
-[07:26:17] [Server thread/INFO]: Yisus1999 joined the game
-[07:26:17] [Server thread/INFO]: Yisus1999[/127.151.141.217:53827] logged in with entity id 30821 at ([world]45.07865137233246, 3.0, -1223.6935813504945)
-[07:34:46] [Server thread/INFO]: MS_iAlexis has made the advancement [A Seedy Place]
-[07:40:36] [Async Chat Thread - #20/INFO]: [Not Secure] <MS_iAlexis> zzzzzz
-[07:40:39] [Async Chat Thread - #21/INFO]: [Not Secure] <JoseRF> zzz
-[07:40:48] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
-[07:40:48] [Server thread/INFO]: Yisus1999 left the game
-[07:40:51] [Async Chat Thread - #21/INFO]: [Not Secure] <Johaanw> zzz
-[07:41:03] [User Authenticator #5/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
-[07:41:04] [Server thread/INFO]: Yisus1999 joined the game
-[07:41:04] [Server thread/INFO]: Yisus1999[/127.151.141.217:49907] logged in with entity id 35469 at ([world]88.42871672589717, 24.0, -1167.7503459588386)
-[07:43:19] [Server thread/INFO]: JoseRF has made the advancement [Voluntary Exile]
-[07:43:28] [Server thread/INFO]: Yisus1999 issued server command: /back Johaanw
-[07:43:31] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[07:43:31] [Server thread/INFO]: Johaanw left the game
-[07:43:38] [User Authenticator #6/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[07:43:38] [Server thread/INFO]: Johaanw joined the game
-[07:43:38] [Server thread/INFO]: Johaanw[/127.180.57.64:49151] logged in with entity id 36268 at ([world]142.97304750883205, 63.0, -1152.1265997306903)
-[07:43:41] [Async Chat Thread - #22/INFO]: [Not Secure] <Johaanw> ./tpa
-[07:43:49] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
-[07:43:51] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[07:44:58] [Server thread/INFO]: Johaanw fell from a high place
-[07:45:03] [Async Chat Thread - #24/INFO]: [Not Secure] <MS_iAlexis> xd
-[07:45:05] [Server thread/INFO]: Johaanw issued server command: /back
-[07:45:16] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
-[07:45:19] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[07:45:21] [Async Chat Thread - #24/INFO]: [Not Secure] <Yisus1999> xD
-[07:45:24] [Async Chat Thread - #24/INFO]: [Not Secure] <Johaanw> ;v
-[07:47:20] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[07:47:20] [Server thread/INFO]: Johaanw left the game
-[07:47:37] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
-[07:47:37] [Server thread/INFO]: Yisus1999 left the game
-[07:52:29] [Async Chat Thread - #26/INFO]: [Not Secure] <MS_iAlexis> zzzzzzzzzz
-[07:59:04] [Server thread/INFO]: JoseRF has made the advancement [The Parrots and the Bats]
-[08:10:23] [Async Chat Thread - #28/INFO]: [Not Secure] <MS_iAlexis> CORV3TTE
-[08:11:38] [Server thread/INFO]: MS_iAlexis issued server command: /skin
-[08:12:15] [Server thread/INFO]: MS_iAlexis issued server command: /skin
-[08:12:34] [Server thread/INFO]: JoseRF issued server command: /skinsrestorer:skin CORV3TTE
-[08:13:16] [Server thread/INFO]: MS_iAlexis issued server command: /skin Hidden
-[08:13:54] [Server thread/INFO]: MS_iAlexis issued server command: /skin OhWreeper
-[08:30:22] [Server thread/INFO]: MS_iAlexis was slain by JoseRF
-[08:30:48] [Server thread/INFO]: MS_iAlexis issued server command: /back
-[09:11:05] [Server thread/INFO]: JoseRF has made the advancement [Fishy Business]
-[09:15:13] [Server thread/WARN]: JoseRF moved too quickly! 6.664886966769217,-3.8447679954833944,6.585527041391554
-[09:15:43] [Server thread/INFO]: JoseRF has made the advancement [Best Friends Forever]
-[09:23:20] [Server thread/INFO]: JoseRF has made the advancement [Take Aim]
-[09:23:56] [Server thread/INFO]: MS_iAlexis lost connection: Disconnected
-[09:23:56] [Server thread/INFO]: MS_iAlexis left the game
-[09:23:58] [Server thread/INFO]: JoseRF lost connection: Disconnected
-[09:23:58] [Server thread/INFO]: JoseRF left the game
-[09:24:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:56:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:56:17] [ServerMain/INFO]: Loaded 1407 recipes
+[02:56:17] [ServerMain/INFO]: Loaded 1520 advancements
+[02:56:17] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[02:56:17] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 495.9ms
+[02:56:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:56:17] [Server thread/INFO]: Loading properties
+[02:56:17] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[02:56:17] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:56:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:56:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:56:18] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:56:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:56:18] [Server thread/INFO]: Default game type: SURVIVAL
+[02:56:18] [Server thread/INFO]: Generating keypair
+[02:56:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:56:19] [Server thread/INFO]: Using epoll channel type
+[02:56:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:56:19] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[02:56:19] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.8
+[02:56:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[02:56:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:56:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[02:56:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[02:56:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:56:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:56:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:56:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:56:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:56:21] [Server thread/INFO]: Preparing level "world"
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.7.8) is available! Downloading update...
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 465ms
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[02:56:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[02:56:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:56:22] [Server thread/INFO]: Preparing spawn area: 0%
+[02:56:22] [Server thread/INFO]: Preparing spawn area: 0%
+[02:56:23] [Server thread/INFO]: Preparing spawn area: 2%
+[02:56:23] [Server thread/INFO]: Preparing spawn area: 2%
+[02:56:23] [Server thread/INFO]: Time elapsed: 1777 ms
+[02:56:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:56:23] [Server thread/INFO]: Preparing spawn area: 0%
+[02:56:23] [Server thread/INFO]: Time elapsed: 340 ms
+[02:56:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:56:24] [Server thread/INFO]: Preparing spawn area: 0%
+[02:56:24] [Server thread/INFO]: Time elapsed: 283 ms
+[02:56:24] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.8
+[02:56:24] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[02:56:24] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.8
+[02:56:24] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[02:56:24] [Server thread/INFO]: [spark] Starting background profiler...
+[02:56:25] [Server thread/INFO]: Done preparing level "world" (4.308s)
+[02:56:25] [Server thread/INFO]: Running delayed init tasks
+[02:56:25] [Server thread/INFO]: Done (19.912s)! For help, type "help"
+[02:56:25] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[02:56:25] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[02:56:25] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[02:57:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:57:27] [User Authenticator #0/INFO]: UUID of player MS_Johann is 133897f7-1a90-3c2b-9d8b-e31979402fa2
+[02:57:27] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[02:57:29] [Server thread/INFO]: MS_Johann joined the game
+[02:57:29] [Server thread/INFO]: MS_Johann[/127.180.57.64:50185] logged in with entity id 14 at ([world]-8.870805188072946, 66.0, 19.15166588892154)
+[02:57:51] [Server thread/INFO]: MS_Johann lost connection: Disconnected
+[02:57:51] [Server thread/INFO]: MS_Johann left the game
+[02:58:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:59:23] [User Authenticator #1/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[02:59:24] [Server thread/INFO]: Johaanw joined the game
+[02:59:24] [Server thread/INFO]: Johaanw[/127.180.57.64:38551] logged in with entity id 260 at ([world]149.69999998807907, 63.5625, -1155.254865619872)
+[03:00:15] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[03:00:15] [Server thread/INFO]: Johaanw left the game
+[03:00:19] [Server thread/INFO]: Stopping the server
+[03:00:19] [Server thread/INFO]: Stopping server
+[03:00:19] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[03:00:19] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.8
+[03:00:19] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:00:19] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.8
+[03:00:19] [Server thread/INFO]: Saving players
+[03:00:20] [Server thread/INFO]: Saving worlds
+[03:00:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:00:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:00:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:00:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Saved 700 block chunks, 793 entity chunks, 0 poi chunks in world 'world' in 1.80s
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:00:21] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:00:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:00:21] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:00:21] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:00:21] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:00:21] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
