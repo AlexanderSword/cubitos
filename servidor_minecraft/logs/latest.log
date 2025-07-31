@@ -198,3 +198,103 @@
 [04:30:21] [Server thread/INFO]: XJeampier has made the advancement [Cover Me with Diamonds]
 [04:31:20] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
 [04:31:22] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[04:37:32] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> zzzzzzzzz
+[04:37:34] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Duerman :v
+[04:37:37] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
+[04:37:37] [Server thread/INFO]: Yisus1999 left the game
+[04:38:36] [User Authenticator #7/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
+[04:38:37] [Server thread/INFO]: Yisus1999 joined the game
+[04:38:37] [Server thread/INFO]: Yisus1999[/127.151.141.217:35863] logged in with entity id 21027 at ([world]-263.0224027819979, -7.0, -312.88669271879854)
+[04:43:01] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
+[04:43:05] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[04:44:59] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[04:45:00] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[04:45:17] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[04:45:19] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[04:49:17] [Server thread/INFO]: Johaanw issued server command: /tp Johaanw -361 102 -290
+[04:49:17] [Server thread/INFO]: [Johaanw: Teleported Johaanw to -360.500000, 102.000000, -289.500000]
+[04:49:22] [Async Chat Thread - #9/INFO]: [Not Secure] <Johaanw> -361 102 -290
+[04:49:23] [Async Chat Thread - #9/INFO]: [Not Secure] <Johaanw> -361 102 -290
+[04:49:27] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[04:49:36] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[04:49:50] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[04:49:53] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[04:52:37] [Server thread/INFO]: XJeampier has made the advancement [Under Lock and Key]
+[04:52:38] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[04:52:38] [Server thread/INFO]: Johaanw left the game
+[04:52:52] [User Authenticator #8/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[04:52:53] [Server thread/INFO]: Johaanw joined the game
+[04:52:53] [Server thread/INFO]: Johaanw[/127.180.57.64:43791] logged in with entity id 23808 at ([world]-227.26070238055755, -29.0, -331.61819379753223)
+[04:53:18] [Server thread/INFO]: Johaanw has made the advancement [Cover Me with Diamonds]
+[04:53:29] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[04:53:33] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[04:53:39] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[04:53:39] [Server thread/INFO]: Johaanw left the game
+[04:53:43] [User Authenticator #8/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[04:53:44] [Server thread/INFO]: Johaanw joined the game
+[04:53:44] [Server thread/INFO]: Johaanw[/127.180.57.64:48279] logged in with entity id 23914 at ([world]-215.08368614997505, -29.0, -337.81023248149506)
+[04:54:07] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[04:54:07] [Server thread/INFO]: Johaanw left the game
+[04:57:01] [User Authenticator #9/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[04:57:01] [Server thread/INFO]: Johaanw joined the game
+[04:57:01] [Server thread/INFO]: Johaanw[/127.180.57.64:49661] logged in with entity id 24415 at ([world]-220.42846323593415, -29.0, -347.69999998807907)
+[04:57:10] [Server thread/INFO]: Johaanw issued server command: /tp Johaanw -361 102 -290
+[04:57:10] [Server thread/INFO]: [Johaanw: Teleported Johaanw to -360.500000, 102.000000, -289.500000]
+[04:58:30] [Server thread/INFO]: Johaanw issued server command: /give @p minecraft:baked_potato 64
+[04:58:30] [Server thread/INFO]: [Johaanw: Gave 64 [Baked Potato] to Johaanw]
+[04:58:34] [Server thread/INFO]: Johaanw issued server command: /give @p minecraft:baked_potato 64
+[04:58:34] [Server thread/INFO]: [Johaanw: Gave 64 [Baked Potato] to Johaanw]
+[04:58:35] [Server thread/INFO]: Johaanw issued server command: /give @p minecraft:baked_potato 64
+[04:58:35] [Server thread/INFO]: [Johaanw: Gave 64 [Baked Potato] to Johaanw]
+[04:59:24] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[04:59:27] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[04:59:56] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
+[04:59:58] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[05:02:05] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[05:02:08] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:02:31] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
+[05:02:33] [Server thread/INFO]: XJeampier has made the advancement [Take Aim]
+[05:02:34] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[05:02:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Yisus1999> w
+[05:02:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Johaanw> :v
+[05:04:18] [Server thread/INFO]: Yisus1999 was slain by Zombie
+[05:04:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Johaanw> ./back
+[05:04:35] [Server thread/INFO]: Yisus1999 issued server command: /back
+[05:04:40] [Server thread/INFO]: Yisus1999 issued server command: /back
+[05:04:48] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:04:49] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:05:34] [Server thread/INFO]: XJeampier was impaled on a stalagmite
+[05:05:41] [Server thread/INFO]: XJeampier issued server command: /back
+[05:05:52] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[05:06:06] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:06:17] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
+[05:06:17] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
+[05:06:58] [Server thread/INFO]: Johaanw issued server command: /gamemode survival XJeampier
+[05:06:58] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Survival Mode]
+[05:07:09] [Server thread/INFO]: Johaanw has made the advancement [Wax Off]
+[05:07:22] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[05:07:32] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:08:36] [Server thread/INFO]: Yisus1999 has made the advancement [Under Lock and Key]
+[05:09:28] [Server thread/INFO]: Johaanw has made the advancement [Under Lock and Key]
+[05:11:09] [Server thread/INFO]: Yisus1999 was impaled on a stalagmite
+[05:11:30] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:11:34] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:14:23] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
+[05:14:23] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
+[05:14:23] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:14:26] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:16:31] [Server thread/INFO]: Johaanw issued server command: /gamemode survival XJeampier
+[05:16:31] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Survival Mode]
+[05:16:36] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[05:16:38] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:16:39] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:16:42] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:16:49] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:16:54] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:16:56] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:19:04] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
+[05:19:04] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
+[05:20:24] [Server thread/INFO]: Johaanw issued server command: /gamemode survival XJeampier
+[05:20:24] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Survival Mode]
+[05:21:22] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:21:29] [Server thread/INFO]: XJeampier issued server command: /tpaccept
