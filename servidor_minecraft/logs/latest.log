@@ -377,3 +377,54 @@
 [06:01:58] [Server thread/INFO]: Johaanw issued server command: /tpaccept
 [06:03:20] [Server thread/INFO]: Johaanw lost connection: Disconnected
 [06:03:20] [Server thread/INFO]: Johaanw left the game
+[06:03:45] [User Authenticator #12/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[06:03:46] [Server thread/INFO]: Johaanw joined the game
+[06:03:46] [Server thread/INFO]: Johaanw[/127.180.57.64:54747] logged in with entity id 39567 at ([world]119.8344692550527, 6.0, -479.84575525919314)
+[06:08:06] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
+[06:08:09] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[06:09:13] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[06:09:16] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[06:09:37] [Server thread/INFO]: Johaanw has made the advancement [Who Needs Rockets?]
+[06:10:46] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[06:10:46] [Server thread/INFO]: Johaanw left the game
+[06:10:54] [Server thread/INFO]: XJeampier lost connection: Disconnected
+[06:10:54] [Server thread/INFO]: XJeampier left the game
+[06:12:44] [Server thread/INFO]: Stopping the server
+[06:12:44] [Server thread/INFO]: Stopping server
+[06:12:44] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[06:12:44] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.8
+[06:12:44] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[06:12:44] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.8
+[06:12:44] [Server thread/INFO]: Saving players
+[06:12:44] [Server thread/INFO]: Yisus1999 lost connection: Server closed
+[06:12:44] [Server thread/INFO]: Yisus1999 left the game
+[06:12:44] [Server thread/INFO]: Saving worlds
+[06:12:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:12:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:12:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:12:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Saved 156 block chunks, 323 entity chunks, 0 poi chunks in world 'world' in 0.33s
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[06:12:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[06:12:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[06:12:45] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[06:12:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:12:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:12:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:12:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:12:45] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[06:12:45] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[06:12:45] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[06:12:45] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
