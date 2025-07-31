@@ -1,269 +1,93 @@
-[04:44:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[04:44:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[04:44:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:44:28] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[04:44:31] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3329ms.
-[04:44:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[04:44:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[03:21:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:21:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[03:21:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:21:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[03:21:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - SimpleTpa (7.8), SkinsRestorer (15.7.8)
-[04:44:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:44:37] [ServerMain/INFO]: Loaded 1407 recipes
-[04:44:37] [ServerMain/INFO]: Loaded 1520 advancements
-[04:44:37] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[04:44:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,009.4ms
-[04:44:38] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[04:44:38] [Server thread/INFO]: Loading properties
-[04:44:38] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[04:44:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:44:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:44:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:44:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[04:44:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:44:40] [Server thread/INFO]: Default game type: SURVIVAL
-[04:44:40] [Server thread/INFO]: Generating keypair
-[04:44:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:44:40] [Server thread/INFO]: Using epoll channel type
-[04:44:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:44:40] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[04:44:40] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.8
-[04:44:40] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[04:44:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:44:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[04:44:41] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[04:44:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:44:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:44:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:44:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:44:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:44:42] [Server thread/INFO]: Preparing level "world"
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:44:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:44:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:44:43] [Server thread/INFO]: Preparing spawn area: 0%
-[04:44:43] [Server thread/INFO]: Preparing spawn area: 8%
-[04:44:43] [Server thread/INFO]: Preparing spawn area: 10%
-[04:44:43] [Server thread/INFO]: Time elapsed: 1084 ms
-[04:44:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:44:43] [Server thread/INFO]: Preparing spawn area: 0%
-[04:44:44] [Server thread/INFO]: Time elapsed: 283 ms
-[04:44:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:44:44] [Server thread/INFO]: Preparing spawn area: 0%
-[04:44:44] [Server thread/INFO]: Time elapsed: 118 ms
-[04:44:44] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.8
-[04:44:44] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[04:44:44] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.8
-[04:44:44] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[04:44:44] [Server thread/INFO]: [spark] Starting background profiler...
-[04:44:44] [Server thread/INFO]: Done preparing level "world" (2.471s)
-[04:44:44] [Server thread/INFO]: Running delayed init tasks
-[04:44:44] [Server thread/INFO]: Done (18.577s)! For help, type "help"
-[04:44:44] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
-[04:44:45] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
-[04:44:45] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
-[04:45:06] [User Authenticator #0/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[04:45:06] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[04:45:09] [Server thread/INFO]: Johaanw joined the game
-[04:45:09] [Server thread/INFO]: Johaanw[/127.180.57.64:49889] logged in with entity id 72 at ([world]144.97209908793926, 59.0, -1146.0125889890992)
-[04:45:11] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[04:45:11] [Server thread/INFO]: Johaanw left the game
-[04:45:49] [User Authenticator #0/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[04:45:50] [Server thread/INFO]: Johaanw joined the game
-[04:45:50] [Server thread/INFO]: Johaanw[/127.180.57.64:43573] logged in with entity id 203 at ([world]144.97209908793926, 59.0, -1146.0125889890992)
-[04:45:56] [User Authenticator #0/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
-[04:45:56] [Server thread/INFO]: Yisus1999 joined the game
-[04:45:56] [Server thread/INFO]: Yisus1999[/127.151.141.217:52969] logged in with entity id 415 at ([world]146.20377274739374, 63.0, -1152.8716030862258)
-[04:58:03] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
-[04:58:10] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[04:59:08] [User Authenticator #1/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
-[04:59:10] [Server thread/INFO]: XJeampier joined the game
-[04:59:10] [Server thread/INFO]: XJeampier[/127.215.103.76:35331] logged in with entity id 3005 at ([world]-33.5, 69.0, 31.5)
-[04:59:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> ./tpa
-[05:00:00] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
-[05:00:02] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[05:00:13] [Server thread/INFO]: XJeampier has made the advancement [Acquire Hardware]
-[05:00:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> ./tpa
-[05:00:34] [Server thread/INFO]: XJeampier has made the advancement [Isn't It Iron Pick]
-[05:01:31] [Server thread/INFO]: XJeampier was slain by Zombie
-[05:01:40] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
-[05:01:42] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[05:05:05] [Server thread/INFO]: XJeampier has made the advancement [Stone Age]
-[05:06:39] [Server thread/INFO]: Yisus1999 was doomed to fall by XJeampier
-[05:07:49] [Server thread/INFO]: XJeampier issued server command: /skin gokublack
-[05:09:15] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
-[05:09:17] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[05:11:23] [Server thread/INFO]: Johaanw issued server command: /tpa x
-[05:11:32] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[05:11:51] [Server thread/INFO]: XJeampier has made the advancement [Monster Hunter]
-[05:13:32] [Server thread/INFO]: XJeampier has made the advancement [Best Friends Forever]
-[05:13:49] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
-[05:13:51] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[05:17:15] [Server thread/INFO]: Johaanw has made the advancement [Take Aim]
-[05:19:50] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
-[05:19:53] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[05:27:45] [Server thread/INFO]: XJeampier has made the advancement [Diamonds!]
-[05:28:03] [User Authenticator #2/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
-[05:28:04] [Server thread/INFO]: AimecitaPrOMG joined the game
-[05:28:04] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:55731] logged in with entity id 10708 at ([world]-31.5, 69.0, 31.5)
-[05:29:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Johaanw> ./tpa
-[05:29:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Johaanw> C:
-[05:30:02] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[05:30:03] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[05:30:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Johaanw> ./skin
-[05:30:26] [Server thread/INFO]: AimecitaPrOMG issued server command: /skin
-[05:31:01] [Server thread/INFO]: XJeampier has made the advancement [Not Today, Thank You]
-[05:31:04] [Async Chat Thread - #2/INFO]: [Not Secure] <Johaanw> ./skin Panterarosa
-[05:31:19] [Server thread/INFO]: AimecitaPrOMG issued server command: /skin Panterarosa
-[05:32:12] [Server thread/INFO]: AimecitaPrOMG has made the advancement [Suit Up]
-[05:32:59] [Server thread/INFO]: AimecitaPrOMG has made the advancement [Stone Age]
-[05:34:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Johaanw> pasa
-[05:37:23] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[05:37:45] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[05:37:48] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[05:37:49] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[05:37:50] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[05:38:09] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[05:38:25] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[05:38:28] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[05:38:41] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[05:38:43] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[05:39:01] [Server thread/INFO]: AimecitaPrOMG has made the advancement [Monster Hunter]
-[05:42:14] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[05:42:17] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[05:42:54] [Server thread/INFO]: Johaanw has made the advancement [Hot Stuff]
-[05:45:43] [Async Chat Thread - #6/INFO]: [Not Secure] <AimecitaPrOMG> tun tun tun sajur
-[05:46:39] [Server thread/INFO]: XJeampier has made the advancement [Suit Up]
-[05:48:06] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[05:48:08] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[05:51:01] [Server thread/INFO]: AimecitaPrOMG has made the advancement [Sweet Dreams]
-[05:51:10] [Server thread/INFO]: XJeampier has made the advancement [Sweet Dreams]
-[05:51:14] [Async Chat Thread - #8/INFO]: [Not Secure] <AimecitaPrOMG> AJKFAGAKSFGF
-[05:51:17] [Async Chat Thread - #8/INFO]: [Not Secure] <XJeampier> ga
-[05:51:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Johaanw> kbro
-[06:03:49] [Server thread/INFO]: AimecitaPrOMG has made the advancement [Acquire Hardware]
-[06:09:36] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[06:09:38] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[06:14:33] [Server thread/INFO]: XJeampier has made the advancement [A Seedy Place]
-[06:18:45] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
-[06:18:47] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[06:23:00] [Async Chat Thread - #10/INFO]: [Not Secure] <AimecitaPrOMG> uwu
-[06:26:48] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[06:26:50] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[06:29:21] [Server thread/INFO]: Johaanw issued server command: /tpa AimecitaPrOMG
-[06:30:00] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
-[06:30:04] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[06:30:26] [Server thread/INFO]: Johaanw has made the advancement [Best Friends Forever]
-[06:33:32] [Server thread/INFO]: XJeampier lost connection: Disconnected
-[06:33:32] [Server thread/INFO]: XJeampier left the game
-[06:33:45] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[06:33:45] [Server thread/INFO]: Johaanw left the game
-[06:33:54] [User Authenticator #3/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[06:33:55] [Server thread/INFO]: Johaanw joined the game
-[06:33:55] [Server thread/INFO]: Johaanw[/127.180.57.64:53201] logged in with entity id 28950 at ([world]-391.7758044526038, 101.5625, -294.9226132538105)
-[06:34:07] [User Authenticator #3/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
-[06:34:08] [Server thread/INFO]: XJeampier joined the game
-[06:34:08] [Server thread/INFO]: XJeampier[/127.215.103.76:36575] logged in with entity id 28973 at ([world]32.07499998807907, 67.0, 812.4308833073154)
-[06:35:54] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
-[06:36:02] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[06:37:42] [Server thread/INFO]: XJeampier has made the advancement [Voluntary Exile]
-[06:40:14] [Server thread/INFO]: Johaanw has made the advancement [Ol' Betsy]
-[06:40:51] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
-[06:40:54] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[06:40:59] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[06:40:59] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
-[06:41:11] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
-[06:41:13] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[06:42:20] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[06:42:27] [Server thread/INFO]: Johaanw issued server command: /tpa AimecitaPrOMG
-[06:42:28] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[06:42:48] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
-[06:42:50] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[06:49:01] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[06:49:04] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[06:49:33] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[06:49:33] [Server thread/INFO]: Johaanw left the game
-[06:49:49] [User Authenticator #4/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[06:49:49] [Server thread/INFO]: Johaanw joined the game
-[06:49:49] [Server thread/INFO]: Johaanw[/127.180.57.64:40189] logged in with entity id 34194 at ([world]-283.53042307470554, 80.1592101268059, -306.07103507542)
-[06:50:41] [Server thread/INFO]: Made Johaanw a server operator
-[06:50:48] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
-[06:50:48] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
-[06:51:11] [Server thread/INFO]: AimecitaPrOMG lost connection: Disconnected
-[06:51:11] [Server thread/INFO]: AimecitaPrOMG left the game
-[06:51:11] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
-[06:51:11] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
-[06:51:20] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
-[06:51:22] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[06:52:20] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
-[06:52:22] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
-[06:52:22] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
-[06:52:24] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[06:54:36] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
-[06:54:36] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
-[06:55:45] [Server thread/INFO]: XJeampier has made the advancement [Minecraft: Trial(s) Edition]
-[06:55:59] [Server thread/INFO]: Johaanw issued server command: /gamemode survival XJeampier
-[06:55:59] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Survival Mode]
-[06:56:40] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
-[06:56:40] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
-[06:58:06] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
-[06:58:06] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
-[06:59:05] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
-[06:59:05] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
-[06:59:08] [Server thread/INFO]: Johaanw issued server command: /tpa x
-[06:59:12] [Server thread/INFO]: XJeampier issued server command: /tpaccept
-[06:59:17] [Server thread/INFO]: Johaanw has made the advancement [Minecraft: Trial(s) Edition]
-[07:00:59] [Server thread/INFO]: Johaanw issued server command: /tpa Yisus1999
-[07:01:04] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
-[07:01:12] [Server thread/INFO]: XJeampier lost connection: Disconnected
-[07:01:12] [Server thread/INFO]: XJeampier left the game
-[07:01:20] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[07:01:20] [Server thread/INFO]: Johaanw left the game
-[07:02:03] [Server thread/INFO]: Stopping the server
-[07:02:03] [Server thread/INFO]: Stopping server
-[07:02:03] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
-[07:02:03] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.8
-[07:02:03] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[07:02:03] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.8
-[07:02:03] [Server thread/INFO]: Saving players
-[07:02:03] [Server thread/INFO]: Yisus1999 lost connection: Server closed
-[07:02:03] [Server thread/INFO]: Yisus1999 left the game
-[07:02:03] [Server thread/INFO]: Saving worlds
-[07:02:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Saved 83 block chunks, 359 entity chunks, 0 poi chunks in world 'world' in 0.20s
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[07:02:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[07:02:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[07:02:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[07:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:02:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:02:03] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[07:02:03] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[07:02:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[07:02:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[03:21:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:21:50] [ServerMain/INFO]: Loaded 1407 recipes
+[03:21:50] [ServerMain/INFO]: Loaded 1520 advancements
+[03:21:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:21:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 469.7ms
+[03:21:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:21:50] [Server thread/INFO]: Loading properties
+[03:21:50] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[03:21:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:21:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:21:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:21:51] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:21:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:21:53] [Server thread/INFO]: Default game type: SURVIVAL
+[03:21:53] [Server thread/INFO]: Generating keypair
+[03:21:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:21:53] [Server thread/INFO]: Using epoll channel type
+[03:21:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:21:53] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:21:53] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.8
+[03:21:53] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[03:21:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:21:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[03:21:54] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[03:21:55] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:21:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:21:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:21:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:21:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:21:55] [Server thread/INFO]: Preparing level "world"
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:21:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:21:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:21:56] [Server thread/INFO]: Preparing spawn area: 0%
+[03:21:56] [Server thread/INFO]: Preparing spawn area: 2%
+[03:21:57] [Server thread/INFO]: Preparing spawn area: 6%
+[03:21:57] [Server thread/INFO]: Time elapsed: 1157 ms
+[03:21:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:21:57] [Server thread/INFO]: Preparing spawn area: 0%
+[03:21:57] [Server thread/INFO]: Time elapsed: 227 ms
+[03:21:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:21:57] [Server thread/INFO]: Preparing spawn area: 0%
+[03:21:57] [Server thread/INFO]: Time elapsed: 140 ms
+[03:21:57] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.8
+[03:21:57] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:21:57] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.8
+[03:21:57] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[03:21:57] [Server thread/INFO]: [spark] Starting background profiler...
+[03:21:58] [Server thread/INFO]: Done preparing level "world" (2.657s)
+[03:21:58] [Server thread/INFO]: Running delayed init tasks
+[03:21:58] [Server thread/INFO]: Done (16.100s)! For help, type "help"
+[03:21:58] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[03:21:58] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[03:21:58] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[03:22:43] [User Authenticator #0/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[03:22:43] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[03:22:45] [Server thread/INFO]: Johaanw joined the game
+[03:22:45] [Server thread/INFO]: Johaanw[/127.180.57.64:43359] logged in with entity id 13 at ([world]-357.30000001192093, 101.0, -309.30000001192093)
+[03:22:53] [User Authenticator #0/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
+[03:22:54] [Server thread/INFO]: Yisus1999 joined the game
+[03:22:54] [Server thread/INFO]: Yisus1999[/127.151.141.217:56219] logged in with entity id 258 at ([world]-367.8339342391968, 102.0, -301.67052424366386)
+[03:25:48] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[03:25:48] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[03:26:58] [Server thread/INFO]: Johaanw issued server command: /effect give Johaanw minecraft:
+[03:27:01] [Server thread/INFO]: Johaanw issued server command: /effect give Johaanw minecraft:night_vision
+[03:27:01] [Server thread/INFO]: [Johaanw: Applied effect Night Vision to Johaanw]
+[03:27:09] [Server thread/INFO]: Johaanw issued server command: /effect give Johaanw minecraft:night_vision 5
+[03:27:25] [Server thread/INFO]: Johaanw issued server command: /effect give Johaanw minecraft:night_vision 120
+[03:27:25] [Server thread/INFO]: [Johaanw: Applied effect Night Vision to Johaanw]
+[03:29:29] [Server thread/INFO]: Johaanw issued server command: /effect give Johaanw minecraft:night_vision 120
+[03:29:29] [Server thread/INFO]: [Johaanw: Applied effect Night Vision to Johaanw]
+[03:30:11] [Server thread/INFO]: Johaanw issued server command: /execute as @e[type=minecraft:pillager,sort=nearest,limit=1] run say Estoy en: ~ ~ ~
+[03:30:11] [Server thread/INFO]: [Not Secure] [Pillager] Estoy en: ~ ~ ~
+[03:30:32] [Server thread/INFO]: Johaanw issued server command: /execute as @e[type=minecraft:pillager,sort=nearest,limit=1] run say
+[03:30:49] [Server thread/INFO]: Johaanw issued server command: /effect give @e[type=minecraft:pillager] minecraft:glowing 99999 1 true
+[03:30:49] [Server thread/INFO]: [Johaanw: Applied effect Glowing to 3 targets]
