@@ -336,3 +336,23 @@
 [05:42:48] [Server thread/INFO]: Yisus1999 was shot by Stray
 [05:42:58] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
 [05:43:00] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:43:29] [Server thread/INFO]: Yisus1999 was slain by Slime
+[05:43:35] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:43:37] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:44:16] [Server thread/INFO]: Yisus1999 was slain by Husk
+[05:44:23] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:44:25] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:44:57] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[05:44:57] [Server thread/INFO]: Johaanw left the game
+[05:45:09] [Server thread/INFO]: Yisus1999 was slain by Husk
+[05:45:31] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:45:35] [User Authenticator #11/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[05:45:35] [Server thread/INFO]: Johaanw joined the game
+[05:45:35] [Server thread/INFO]: Johaanw[/127.180.57.64:60115] logged in with entity id 34509 at ([world]105.69999998807907, -5.0, -475.3608323173533)
+[05:45:36] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:46:18] [Server thread/INFO]: Johaanw issued server command: /tp Johaanw -361 102 -290
+[05:46:18] [Server thread/INFO]: [Johaanw: Teleported Johaanw to -360.500000, 102.000000, -289.500000]
+[05:47:08] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[05:47:12] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:51:44] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
+[05:51:44] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
