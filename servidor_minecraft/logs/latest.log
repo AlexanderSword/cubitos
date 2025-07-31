@@ -91,3 +91,64 @@
 [03:30:32] [Server thread/INFO]: Johaanw issued server command: /execute as @e[type=minecraft:pillager,sort=nearest,limit=1] run say
 [03:30:49] [Server thread/INFO]: Johaanw issued server command: /effect give @e[type=minecraft:pillager] minecraft:glowing 99999 1 true
 [03:30:49] [Server thread/INFO]: [Johaanw: Applied effect Glowing to 3 targets]
+[03:31:47] [Server thread/INFO]: Johaanw issued server command: /execute as @e[type=minecraft:pillager] run say Pillager en: ~ ~ ~
+[03:31:47] [Server thread/INFO]: [Not Secure] [Pillager] Pillager en: ~ ~ ~
+[03:31:47] [Server thread/INFO]: [Not Secure] [Pillager] Pillager en: ~ ~ ~
+[03:31:47] [Server thread/INFO]: [Not Secure] [Pillager] Pillager en: ~ ~ ~
+[03:32:08] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
+[03:32:08] [Server thread/INFO]: [Johaanw: Teleported 3 entities to Johaanw]
+[03:32:17] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[03:32:17] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[03:32:21] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[03:32:23] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[03:32:44] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
+[03:33:35] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
+[03:33:48] [Server thread/INFO]: Johaanw issued server command: /tp @e[tag=raid] @p
+[03:33:59] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
+[03:34:02] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
+[03:34:17] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:evoker] @p
+[03:34:25] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:ravager] @p
+[03:34:34] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:vindicator] @p
+[03:34:34] [Server thread/INFO]: [Johaanw: Teleported 3 entities to Johaanw]
+[03:35:06] [Server thread/INFO]: Johaanw has made the advancement [Voluntary Exile]
+[03:38:04] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:vindicator] @p
+[03:38:06] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:ravager] @p
+[03:38:09] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:evoker] @p
+[03:38:12] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
+[03:38:12] [Server thread/INFO]: [Johaanw: Teleported Pillager to Johaanw]
+[03:38:34] [Server thread/INFO]: Yisus1999 has made the advancement [Getting an Upgrade]
+[03:39:04] [User Authenticator #1/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[03:39:05] [Server thread/INFO]: XJeampier joined the game
+[03:39:05] [Server thread/INFO]: XJeampier[/127.215.103.76:49299] logged in with entity id 2827 at ([world]-242.17378953580535, -29.0, -330.1071423726243)
+[03:40:28] [Server thread/INFO]: Johaanw issued server command: /effect give @e[type=minecraft:pillager] minecraft:glowing 99999 1 true
+[03:40:28] [Server thread/INFO]: [Johaanw: Applied effect Glowing to 3 targets]
+[03:41:14] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[03:41:16] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[03:42:14] [Server thread/INFO]: XJeampier has completed the challenge [Hero of the Village]
+[03:42:14] [Server thread/INFO]: Johaanw has completed the challenge [Hero of the Village]
+[03:42:49] [Server thread/INFO]: Johaanw has made the advancement [A Seedy Place]
+[03:43:03] [Server thread/WARN]: XJeampier moved too quickly! 13.831202364746616,-0.9663680416412319,5.998496322930805
+[03:43:48] [Server thread/WARN]: XJeampier moved too quickly! 2.525897357270651,0.7336320060424839,-18.100960257626923
+[03:48:17] [Server thread/WARN]: XJeampier was kicked for floating too long!
+[03:48:17] [Server thread/INFO]: XJeampier lost connection: Flying is not enabled on this server
+[03:48:17] [Server thread/INFO]: XJeampier left the game
+[03:48:37] [User Authenticator #2/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[03:48:39] [Server thread/INFO]: XJeampier joined the game
+[03:48:39] [Server thread/INFO]: XJeampier[/127.215.103.76:46037] logged in with entity id 4907 at ([world]-387.27386559403175, 101.22329116583738, -294.6284012642752)
+[03:48:49] [Server thread/WARN]: XJeampier was kicked for floating too long!
+[03:48:49] [Server thread/INFO]: XJeampier lost connection: Flying is not enabled on this server
+[03:48:49] [Server thread/INFO]: XJeampier left the game
+[03:50:00] [User Authenticator #3/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[03:50:01] [Server thread/INFO]: XJeampier joined the game
+[03:50:01] [Server thread/INFO]: XJeampier[/127.215.103.76:54975] logged in with entity id 5239 at ([world]-384.3438159822814, 101.55383808212872, -299.9912661995859)
+[03:50:37] [Server thread/INFO]: XJeampier was kicked due to keepalive timeout!
+[03:50:37] [Server thread/INFO]: XJeampier lost connection: Timed out
+[03:50:37] [Server thread/INFO]: XJeampier left the game
+[03:50:51] [User Authenticator #3/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[03:50:52] [Server thread/INFO]: XJeampier joined the game
+[03:50:52] [Server thread/INFO]: XJeampier[/127.215.103.76:42575] logged in with entity id 5428 at ([world]-382.4882050637964, 102.5, -294.64579318616916)
+[03:51:03] [Server thread/INFO]: XJeampier lost connection: Disconnected
+[03:51:03] [Server thread/INFO]: XJeampier left the game
+[03:51:12] [User Authenticator #3/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[03:51:13] [Server thread/INFO]: XJeampier joined the game
+[03:51:13] [Server thread/INFO]: XJeampier[/127.215.103.76:54437] logged in with entity id 5505 at ([world]-375.84959140107685, 102.0, -307.20720152709606)
