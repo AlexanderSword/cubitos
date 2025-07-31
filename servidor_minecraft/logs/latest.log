@@ -356,3 +356,24 @@
 [05:47:12] [Server thread/INFO]: XJeampier issued server command: /tpaccept
 [05:51:44] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
 [05:51:44] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
+[05:54:46] [Server thread/INFO]: Johaanw issued server command: /gamemode survival XJeampier
+[05:54:46] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Survival Mode]
+[05:55:17] [Server thread/INFO]: Johaanw issued server command: /tp Johaanw -361 102 -290
+[05:55:17] [Server thread/INFO]: [Johaanw: Teleported Johaanw to -360.500000, 102.000000, -289.500000]
+[05:55:36] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:55:38] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:55:59] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[05:56:02] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:56:54] [Server thread/INFO]: Villager Villager['Nitwit'/36641, uuid='7dc295cf-e2c0-4103-99c3-a637dd117a2d', l='ServerLevel[world]', x=-355.12, y=101.19, z=-325.40, cpos=[-23, -21], tl=1934, v=true] died, message: 'Nitwit was slain by Zombie'
+[06:00:33] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[06:00:33] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[06:01:31] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[06:01:31] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[06:01:39] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[06:01:39] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[06:01:48] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[06:01:48] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[06:01:54] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[06:01:58] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[06:03:20] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[06:03:20] [Server thread/INFO]: Johaanw left the game
