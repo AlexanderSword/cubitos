@@ -171,3 +171,17 @@
 [04:06:46] [Server thread/INFO]: Yisus1999 joined the game
 [04:06:46] [Server thread/INFO]: Yisus1999[/127.151.141.217:56811] logged in with entity id 9140 at ([world]-248.1433268949216, 6.0, -315.34884058729693)
 [04:11:25] [Server thread/INFO]: XJeampier has made the advancement [Hot Stuff]
+[04:12:24] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[04:12:26] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[04:12:50] [Server thread/INFO]: Johaanw has made the advancement [What a Deal!]
+[04:14:43] [Server thread/INFO]: XJeampier issued server command: /tpa Yisus1999
+[04:14:48] [Server thread/INFO]: Yisus1999 issued server command: /tpaccept
+[04:16:31] [Server thread/INFO]: Yisus1999 has made the advancement [Minecraft: Trial(s) Edition]
+[04:20:44] [Server thread/INFO]: Johaanw issued server command: /locate structure minecraft:village
+[04:20:50] [Server thread/INFO]: Johaanw issued server command: /locate structure minecraft:villag
+[04:20:55] [Server thread/INFO]: Johaanw issued server command: /locate structure minecraft:village_plains
+[04:20:56] [Server thread/INFO]: Locating element minecraft:village_plains took 939 ms
+[04:21:13] [Server thread/INFO]: Johaanw issued server command: /tp @s -1616 ~ 16
+[04:21:13] [Server thread/INFO]: [Johaanw: Teleported Johaanw to -1615.500000, 95.000000, 16.500000]
+[04:21:19] [Server thread/INFO]: Johaanw fell from a high place
+[04:21:47] [Server thread/INFO]: Johaanw issued server command: /back
