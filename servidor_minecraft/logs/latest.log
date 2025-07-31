@@ -312,3 +312,27 @@
 [05:31:31] [Server thread/INFO]: Johaanw has reached the goal [Revaulting]
 [05:32:46] [Server thread/INFO]: Johaanw issued server command: /tpa x
 [05:32:49] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:35:00] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:35:02] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:36:29] [Server thread/INFO]: XJeampier has reached the goal [Revaulting]
+[05:39:18] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator XJeampier
+[05:39:18] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Spectator Mode]
+[05:40:04] [Server thread/INFO]: Johaanw issued server command: /tpa x
+[05:40:08] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:40:08] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[05:40:21] [Server thread/INFO]: Johaanw issued server command: /gamemode survival XJeampier
+[05:40:21] [Server thread/INFO]: [Johaanw: Set XJeampier's game mode to Survival Mode]
+[05:40:23] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[05:40:23] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:40:26] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:40:33] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:40:38] [Server thread/INFO]: Yisus1999 issued server command: /tpa XJeampier
+[05:40:40] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[05:41:40] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:41:43] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:42:08] [Server thread/INFO]: Yisus1999 was shot by Stray
+[05:42:16] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:42:18] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:42:48] [Server thread/INFO]: Yisus1999 was shot by Stray
+[05:42:58] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
+[05:43:00] [Server thread/INFO]: Johaanw issued server command: /tpaccept
