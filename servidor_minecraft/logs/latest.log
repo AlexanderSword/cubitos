@@ -81,3 +81,15 @@
 [03:54:13] [User Authenticator #2/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
 [03:54:15] [Server thread/INFO]: AimecitaPrOMG joined the game
 [03:54:15] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:40341] logged in with entity id 1661 at ([world]-393.08475667996726, 106.0, -303.87931289532156)
+[03:57:31] [Server thread/INFO]: RZJULIAN has made the advancement [Sweet Dreams]
+[03:58:33] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
+[03:58:33] [Server thread/INFO]: Yisus1999 left the game
+[03:58:43] [User Authenticator #3/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
+[03:58:43] [Server thread/INFO]: Yisus1999 joined the game
+[03:58:43] [Server thread/INFO]: Yisus1999[/127.151.141.217:44621] logged in with entity id 3800 at ([world]-258.27304675063493, 43.5, -305.99554803516685)
+[03:59:17] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
+[03:59:31] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
+[04:04:27] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
+[04:04:33] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
+[04:04:59] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
+[04:05:11] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
