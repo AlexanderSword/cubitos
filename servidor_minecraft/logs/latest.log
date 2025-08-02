@@ -1,293 +1,80 @@
-[03:45:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[03:45:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[03:45:54] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:45:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[03:45:56] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[03:02:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:02:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[03:02:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:02:23] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[03:02:23] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - SimpleTpa (7.8), SkinsRestorer (15.7.8)
-[03:46:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:46:02] [ServerMain/INFO]: Loaded 1407 recipes
-[03:46:02] [ServerMain/INFO]: Loaded 1520 advancements
-[03:46:02] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[03:46:03] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 524.0ms
-[03:46:03] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[03:46:03] [Server thread/INFO]: Loading properties
-[03:46:03] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[03:46:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:46:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:46:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:46:04] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:46:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:46:05] [Server thread/INFO]: Default game type: SURVIVAL
-[03:46:05] [Server thread/INFO]: Generating keypair
-[03:46:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:46:05] [Server thread/INFO]: Using epoll channel type
-[03:46:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:46:06] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[03:46:06] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.8
-[03:46:06] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
-[03:46:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:46:06] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
-[03:46:07] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[03:46:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:46:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:46:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:46:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:46:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:46:08] [Server thread/INFO]: Preparing level "world"
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:46:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:46:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:46:09] [Server thread/INFO]: Preparing spawn area: 6%
-[03:46:09] [Server thread/INFO]: Preparing spawn area: 6%
-[03:46:09] [Server thread/INFO]: Time elapsed: 1164 ms
-[03:46:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:46:10] [Server thread/INFO]: Preparing spawn area: 0%
-[03:46:10] [Server thread/INFO]: Time elapsed: 341 ms
-[03:46:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:46:10] [Server thread/INFO]: Preparing spawn area: 0%
-[03:46:10] [Server thread/INFO]: Time elapsed: 232 ms
-[03:46:10] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.8
-[03:46:10] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[03:46:10] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.8
-[03:46:10] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[03:46:10] [Server thread/INFO]: [spark] Starting background profiler...
-[03:46:11] [Server thread/INFO]: Done preparing level "world" (3.473s)
-[03:46:11] [Server thread/INFO]: Running delayed init tasks
-[03:46:11] [Server thread/INFO]: Done (18.996s)! For help, type "help"
-[03:46:11] [User Authenticator #0/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
-[03:46:11] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[03:46:12] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
-[03:46:12] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
-[03:46:12] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
-[03:46:14] [Server thread/INFO]: Yisus1999 joined the game
-[03:46:14] [Server thread/INFO]: Yisus1999[/127.151.141.217:57437] logged in with entity id 13 at ([world]-267.69999998807907, -5.0, -320.40359685746256)
-[03:51:17] [User Authenticator #1/INFO]: UUID of player RZJULIAN is de5eb56f-0e9c-3ba2-9017-e01359cb3e2f
-[03:51:17] [Server thread/INFO]: RZJULIAN joined the game
-[03:51:17] [Server thread/INFO]: RZJULIAN[/127.221.84.245:60909] logged in with entity id 699 at ([world]-34.5, 67.0, 31.5)
-[03:52:31] [Server thread/INFO]: RZJULIAN has made the advancement [Stone Age]
-[03:53:19] [Server thread/INFO]: RZJULIAN has made the advancement [Getting an Upgrade]
-[03:54:13] [User Authenticator #2/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
-[03:54:15] [Server thread/INFO]: AimecitaPrOMG joined the game
-[03:54:15] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:40341] logged in with entity id 1661 at ([world]-393.08475667996726, 106.0, -303.87931289532156)
-[03:57:31] [Server thread/INFO]: RZJULIAN has made the advancement [Sweet Dreams]
-[03:58:33] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
-[03:58:33] [Server thread/INFO]: Yisus1999 left the game
-[03:58:43] [User Authenticator #3/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
-[03:58:43] [Server thread/INFO]: Yisus1999 joined the game
-[03:58:43] [Server thread/INFO]: Yisus1999[/127.151.141.217:44621] logged in with entity id 3800 at ([world]-258.27304675063493, 43.5, -305.99554803516685)
-[03:59:17] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[03:59:31] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:04:27] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:04:33] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:04:59] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:05:11] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:07:31] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:07:35] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:07:37] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:07:45] [Server thread/INFO]: Yisus1999 burned to death
-[04:08:52] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:08:56] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:08:57] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:09:01] [Server thread/INFO]: Yisus1999 issued server command: /BACK
-[04:09:09] [Server thread/INFO]: Yisus1999 issued server command: /bank
-[04:09:18] [Server thread/INFO]: Yisus1999 issued server command: /back
-[04:10:17] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:10:31] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:10:32] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:12:10] [Server thread/INFO]: RZJULIAN has made the advancement [Acquire Hardware]
-[04:12:57] [Server thread/INFO]: RZJULIAN has made the advancement [Monster Hunter]
-[04:13:05] [Server thread/INFO]: Yisus1999 burned to death
-[04:13:45] [Server thread/INFO]: RZJULIAN has made the advancement [Not Today, Thank You]
-[04:14:33] [User Authenticator #4/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
-[04:14:35] [Server thread/INFO]: Johaanw joined the game
-[04:14:35] [Server thread/INFO]: Johaanw[/127.180.57.64:40695] logged in with entity id 15275 at ([world]-392.6681836753184, 101.0, -298.51335385202253)
-[04:14:53] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:15:08] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:15:09] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:15:48] [Server thread/INFO]: AimecitaPrOMG issued server command: /skin WinniePooh
-[04:16:09] [User Authenticator #5/INFO]: UUID of player baiftw is 0d5f908e-5b75-3261-a800-dcef17c21a66
-[04:16:10] [Server thread/INFO]: baiftw joined the game
-[04:16:10] [Server thread/INFO]: baiftw[/127.60.107.234:41555] logged in with entity id 16047 at ([world]-33.5, 70.0, 35.5)
-[04:16:20] [Server thread/INFO]: AimecitaPrOMG issued server command: /skin PeppaPig
-[04:16:32] [Server thread/INFO]: Yisus1999 issued server command: /back
-[04:16:40] [Server thread/INFO]: AimecitaPrOMG issued server command: /skin MinnieMouse
-[04:17:39] [Server thread/INFO]: RZJULIAN has made the advancement [Isn't It Iron Pick]
-[04:17:42] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa WinniePooh
-[04:18:01] [Server thread/INFO]: AimecitaPrOMG issued server command: /skin WinniePooh
-[04:18:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> ./tpa
-[04:18:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> Johaanw
-[04:18:57] [Server thread/INFO]: baiftw issued server command: /tpa
-[04:19:21] [Server thread/INFO]: baiftw issued server command: /tpa
-[04:19:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> ./tpa
-[04:19:33] [Async Chat Thread - #0/INFO]: [Not Secure] <baiftw> t
-[04:20:23] [Server thread/INFO]: baiftw issued server command: /tpa Johaanw
-[04:20:24] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[04:20:46] [Server thread/INFO]: baiftw has made the advancement [Suit Up]
-[04:23:29] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[04:23:35] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[04:23:37] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
-[04:24:14] [Server thread/INFO]: AimecitaPrOMG was blown up by Creeper
-[04:24:16] [Server thread/INFO]: Yisus1999 issued server command: /tpa Johaanw
-[04:24:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Johaanw> XDDDDDDDD
-[04:24:19] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[04:25:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Johaanw> ./back
-[04:25:52] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:26:11] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:26:25] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:27:29] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:27:39] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:27:44] [Server thread/INFO]: RZJULIAN has made the advancement [Suit Up]
-[04:28:53] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:29:00] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:29:01] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:30:06] [User Authenticator #6/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
-[04:30:07] [Server thread/INFO]: XJeampier joined the game
-[04:30:07] [Server thread/INFO]: XJeampier[/127.215.103.76:50671] logged in with entity id 21598 at ([world]-363.2720087236304, 102.0, -290.50259318141866)
-[04:30:25] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Duerman
-[04:30:32] [Async Chat Thread - #6/INFO]: [Not Secure] <XJeampier> zzz
-[04:30:33] [Async Chat Thread - #6/INFO]: [Not Secure] <XJeampier> zzzz
-[04:30:34] [Async Chat Thread - #6/INFO]: [Not Secure] <XJeampier> zzzzz
-[04:30:43] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> ZZZZZZZ
-[04:30:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> ZZZZZZ
-[04:30:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Z
-[04:30:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Z
-[04:30:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Z
-[04:30:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Z
-[04:30:46] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Z
-[04:30:46] [Async Chat Thread - #6/INFO]: [Not Secure] <Johaanw> Z
-[04:30:54] [Server thread/INFO]: baiftw has made the advancement [Sweet Dreams]
-[04:31:04] [Async Chat Thread - #6/INFO]: [Not Secure] <XJeampier> zzz
-[04:31:04] [Async Chat Thread - #6/INFO]: [Not Secure] <XJeampier> zzzz
-[04:31:05] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:05] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:05] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:05] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:06] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> zz
-[04:31:06] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
-[04:31:06] [Server thread/INFO]: Yisus1999 left the game
-[04:31:07] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:07] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:07] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:07] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:08] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:08] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:09] [Async Chat Thread - #7/INFO]: [Not Secure] <XJeampier> z
-[04:31:11] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> ZZZZZZZ
-[04:31:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:13] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:13] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:13] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:13] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> Z
-[04:31:15] [Async Chat Thread - #7/INFO]: [Not Secure] <Johaanw> ZZZZZZ
-[04:31:21] [Async Chat Thread - #7/INFO]: [Not Secure] <baiftw> zzzzzzzz
-[04:31:23] [Async Chat Thread - #7/INFO]: [Not Secure] <baiftw> zzzzzzz
-[04:31:23] [Async Chat Thread - #7/INFO]: [Not Secure] <baiftw> z
-[04:31:23] [Async Chat Thread - #7/INFO]: [Not Secure] <baiftw> z
-[04:31:24] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:24] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:24] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:24] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:24] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:24] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:25] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:25] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:25] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:25] [Async Chat Thread - #6/INFO]: [Not Secure] <baiftw> z
-[04:31:25] [Server thread/INFO]: baiftw lost connection: Kicked for spamming
-[04:31:25] [Server thread/INFO]: baiftw left the game
-[04:31:32] [User Authenticator #7/INFO]: UUID of player Yisus1999 is 962a49cf-3c5f-3d94-b14e-ead7af5f7371
-[04:31:33] [Server thread/INFO]: Yisus1999 joined the game
-[04:31:33] [Server thread/INFO]: Yisus1999[/127.151.141.217:36597] logged in with entity id 21929 at ([world]-367.2485440393895, 102.0, -293.12863618063375)
-[04:31:38] [User Authenticator #7/INFO]: UUID of player baiftw is 0d5f908e-5b75-3261-a800-dcef17c21a66
-[04:31:39] [Server thread/INFO]: baiftw joined the game
-[04:31:39] [Server thread/INFO]: baiftw[/127.60.107.234:45077] logged in with entity id 21947 at ([world]-393.47979489460636, 101.5625, -294.50016206873164)
-[04:32:11] [Server thread/INFO]: baiftw has made the advancement [Monster Hunter]
-[04:34:08] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
-[04:34:18] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:34:18] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
-[04:38:51] [Server thread/INFO]: RZJULIAN has made the advancement [Diamonds!]
-[04:39:04] [Server thread/INFO]: Yisus1999 has made the advancement [Voluntary Exile]
-[04:39:25] [Server thread/INFO]: baiftw has made the advancement [Best Friends Forever]
-[04:40:50] [Server thread/INFO]: AimecitaPrOMG issued server command: /tell RZJULIAN ola
-[04:41:13] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
-[04:41:20] [Server thread/INFO]: AimecitaPrOMG issued server command: /tell RZJULIAN donde xuxa tas
-[04:41:27] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:evoker] @p
-[04:41:42] [Server thread/INFO]: RZJULIAN issued server command: /tell AimecitaPrOMG bajo tierra wa
-[04:41:51] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:vindicator] @p
-[04:41:51] [Server thread/INFO]: [Johaanw: Teleported Vindicator to Johaanw]
-[04:41:54] [Server thread/INFO]: AimecitaPrOMG issued server command: /tell RZJULIAN llevame
-[04:42:42] [Server thread/INFO]: Yisus1999 issued server command: /back
-[04:42:50] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:vindicator] @p
-[04:43:09] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:43:18] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:43:29] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:43:41] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:43:51] [Server thread/INFO]: AimecitaPrOMG issued server command: /back
-[04:43:58] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:vindicator] @p
-[04:44:00] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
-[04:44:03] [Server thread/INFO]: AimecitaPrOMG issued server command: /tell RZJULIAN te amo, wa
-[04:44:17] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
-[04:44:24] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:ravager] @p
-[04:44:24] [Server thread/INFO]: [Johaanw: Teleported Ravager to Johaanw]
-[04:44:47] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
-[04:44:49] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[04:46:09] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:pillager] @p
-[04:46:09] [Server thread/INFO]: [Johaanw: Teleported 3 entities to Johaanw]
-[04:46:17] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:ravager] @p
-[04:46:17] [Server thread/INFO]: [Johaanw: Teleported Ravager to Johaanw]
-[04:46:21] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
-[04:46:23] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[04:46:27] [Server thread/INFO]: RZJULIAN issued server command: /tell AimecitaPrOMG yo mas te amoooooooooo
-[04:46:36] [Server thread/INFO]: Yisus1999 was shot by Skeleton
-[04:46:39] [Server thread/INFO]: Johaanw issued server command: /tp @e[type=minecraft:vindicator] @p
-[04:46:45] [Server thread/INFO]: Yisus1999 lost connection: Disconnected
-[04:46:45] [Server thread/INFO]: Yisus1999 left the game
-[04:46:45] [Server thread/INFO]: AimecitaPrOMG issued server command: /tell RZJULIAN muamuamua
-[04:46:54] [Server thread/INFO]: baiftw has completed the challenge [Hero of the Village]
-[04:46:57] [Server thread/INFO]: RZJULIAN has made the advancement [Best Friends Forever]
-[04:47:44] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
-[04:47:46] [Server thread/INFO]: Johaanw issued server command: /tpaccept
-[04:48:19] [Async Chat Thread - #15/INFO]: [Not Secure] <Johaanw> zzzzzzzzz
-[04:48:20] [Async Chat Thread - #15/INFO]: [Not Secure] <Johaanw> ZZ
-[04:48:21] [Async Chat Thread - #15/INFO]: [Not Secure] <Johaanw> ZZZZZZZZZ
-[04:48:22] [Async Chat Thread - #15/INFO]: [Not Secure] <XJeampier> zzzzzzzzz
-[04:48:39] [Async Chat Thread - #15/INFO]: [Not Secure] <baiftw> zz
-[04:49:13] [Async Chat Thread - #15/INFO]: [Not Secure] <XJeampier> zzzz
-[04:49:48] [Server thread/INFO]: RZJULIAN issued server command: /seed
-[04:50:04] [Server thread/INFO]: baiftw has made the advancement [Ol' Betsy]
-[04:50:40] [Async Chat Thread - #16/INFO]: [Not Secure] <RZJULIAN> ./seed
-[04:50:43] [Server thread/INFO]: Johaanw issued server command: /seed
-[04:51:35] [Async Chat Thread - #16/INFO]: [Not Secure] <RZJULIAN> -1321 -31 279
-[04:51:58] [Async Chat Thread - #16/INFO]: [Not Secure] <RZJULIAN> -231 -25 297
-[04:52:14] [Async Chat Thread - #16/INFO]: [Not Secure] <RZJULIAN> 7 -15 249
-[04:52:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Johaanw> listo
-[04:59:22] [Server thread/INFO]: Johaanw issued server command: /tpa baiftw
-[04:59:54] [Server thread/INFO]: baiftw issued server command: /tpaccept
-[05:01:19] [Server thread/INFO]: baiftw has made the advancement [Take Aim]
-[05:01:37] [Server thread/INFO]: RZJULIAN lost connection: Disconnected
-[05:01:37] [Server thread/INFO]: RZJULIAN left the game
-[05:01:39] [Server thread/INFO]: AimecitaPrOMG lost connection: Disconnected
-[05:01:39] [Server thread/INFO]: AimecitaPrOMG left the game
-[05:01:46] [Server thread/INFO]: XJeampier lost connection: Disconnected
-[05:01:46] [Server thread/INFO]: XJeampier left the game
-[05:01:50] [Server thread/INFO]: Johaanw lost connection: Disconnected
-[05:01:50] [Server thread/INFO]: Johaanw left the game
-[05:02:02] [Server thread/INFO]: baiftw lost connection: Disconnected
-[05:02:02] [Server thread/INFO]: baiftw left the game
-[05:03:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:02:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:02:30] [ServerMain/INFO]: Loaded 1407 recipes
+[03:02:30] [ServerMain/INFO]: Loaded 1520 advancements
+[03:02:30] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:02:30] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 384.7ms
+[03:02:30] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:02:30] [Server thread/INFO]: Loading properties
+[03:02:30] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[03:02:30] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:02:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:02:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:02:31] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:02:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:02:32] [Server thread/INFO]: Default game type: SURVIVAL
+[03:02:32] [Server thread/INFO]: Generating keypair
+[03:02:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:02:33] [Server thread/INFO]: Using epoll channel type
+[03:02:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:02:33] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:02:33] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.8
+[03:02:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[03:02:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:02:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[03:02:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[03:02:35] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:02:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:02:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:02:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:02:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:02:35] [Server thread/INFO]: Preparing level "world"
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:02:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:02:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:02:36] [Server thread/INFO]: Preparing spawn area: 0%
+[03:02:36] [Server thread/INFO]: Preparing spawn area: 2%
+[03:02:36] [Server thread/INFO]: Preparing spawn area: 10%
+[03:02:36] [Server thread/INFO]: Time elapsed: 1055 ms
+[03:02:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:02:37] [Server thread/INFO]: Preparing spawn area: 0%
+[03:02:37] [Server thread/INFO]: Time elapsed: 207 ms
+[03:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:02:37] [Server thread/INFO]: Preparing spawn area: 0%
+[03:02:37] [Server thread/INFO]: Time elapsed: 165 ms
+[03:02:37] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.8
+[03:02:37] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:02:37] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.8
+[03:02:37] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[03:02:37] [Server thread/INFO]: [spark] Starting background profiler...
+[03:02:37] [Server thread/INFO]: Done preparing level "world" (2.676s)
+[03:02:37] [Server thread/INFO]: Running delayed init tasks
+[03:02:37] [Server thread/INFO]: Done (15.458s)! For help, type "help"
+[03:02:38] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available.
+[03:02:38] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] There is a new update available:
+[03:02:38] [Craft Scheduler Thread - 3 - SimpleTpa/INFO]: [SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/
+[03:03:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:05:14] [User Authenticator #0/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[03:05:14] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[03:05:15] [Server thread/INFO]: Johaanw joined the game
+[03:05:15] [Server thread/INFO]: Johaanw[/127.180.57.64:43875] logged in with entity id 11 at ([world]-382.92500001192093, 102.0625, -295.6574936318032)
+[03:09:13] [User Authenticator #1/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[03:09:15] [Server thread/INFO]: XJeampier joined the game
+[03:09:15] [Server thread/INFO]: XJeampier[/127.215.103.76:40965] logged in with entity id 778 at ([world]-409.06160594303327, 103.0, -275.01245651243875)
+[03:11:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> on tas chamo :V
