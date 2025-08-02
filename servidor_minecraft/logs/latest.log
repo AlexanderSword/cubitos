@@ -158,3 +158,16 @@
 [04:22:35] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpaccept
 [04:22:49] [Server thread/INFO]: RZJULIAN issued server command: /tpa AimecitaPrOMG
 [04:22:53] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpaccept
+[04:28:14] [Server thread/INFO]: AimecitaPrOMG was kicked due to keepalive timeout!
+[04:28:14] [Server thread/INFO]: AimecitaPrOMG lost connection: Timed out
+[04:28:14] [Server thread/INFO]: AimecitaPrOMG left the game
+[04:28:39] [User Authenticator #8/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
+[04:28:40] [Server thread/INFO]: AimecitaPrOMG joined the game
+[04:28:40] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:38541] logged in with entity id 21302 at ([world]235.69999998807907, 67.0, -430.0999367856368)
+[04:29:39] [Server thread/WARN]: AimecitaPrOMG moved too quickly! 16.329912655072405,-2.3331999936342243,3.7750588067647755
+[04:31:16] [Server thread/WARN]: AimecitaPrOMG was kicked for floating too long!
+[04:31:16] [Server thread/INFO]: AimecitaPrOMG lost connection: Flying is not enabled on this server
+[04:31:16] [Server thread/INFO]: AimecitaPrOMG left the game
+[04:32:29] [User Authenticator #9/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
+[04:32:29] [Server thread/INFO]: AimecitaPrOMG joined the game
+[04:32:29] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:56297] logged in with entity id 22673 at ([world]720.2161650800027, 95.92293597758626, -549.9177377099537)
