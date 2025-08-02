@@ -242,3 +242,15 @@
 [05:19:36] [Server thread/INFO]: [Johaanw: Gave 120 [Coal] to Johaanw]
 [05:24:14] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
 [05:24:16] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[05:25:29] [Server thread/INFO]: XJeampier has made the advancement [Stay Hydrated!]
+[05:31:42] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[05:31:42] [Server thread/INFO]: Johaanw left the game
+[05:33:23] [User Authenticator #13/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[05:33:24] [Server thread/INFO]: Johaanw joined the game
+[05:33:24] [Server thread/INFO]: Johaanw[/127.180.57.64:46171] logged in with entity id 34547 at ([world]-392.05126532526185, 101.5625, -296.4268305680085)
+[05:37:58] [Server thread/INFO]: Johaanw issued server command: /back
+[05:39:10] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[05:39:10] [Server thread/INFO]: Johaanw left the game
+[05:40:15] [User Authenticator #14/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[05:40:16] [Server thread/INFO]: Johaanw joined the game
+[05:40:16] [Server thread/INFO]: Johaanw[/127.180.57.64:47137] logged in with entity id 36779 at ([world]-362.7681362320908, 106.5, -300.25870963713584)
