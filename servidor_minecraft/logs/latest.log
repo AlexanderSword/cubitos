@@ -260,3 +260,16 @@
 [05:51:46] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
 [05:51:48] [Server thread/INFO]: Johaanw issued server command: /tpaccept
 [05:51:59] [Server thread/INFO]: Johaanw issued server command: /back
+[05:55:15] [Server thread/INFO]: Johaanw issued server command: /back
+[05:55:28] [Server thread/INFO]: Johaanw issued server command: /back
+[05:55:35] [Server thread/INFO]: Johaanw issued server command: /tpa x
+[05:55:37] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[05:55:40] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[06:00:13] [Server thread/INFO]: Johaanw issued server command: /locate biome minecraft:frozen_peaks
+[06:00:14] [Server thread/INFO]: Locating element minecraft:frozen_peaks took 530 ms
+[06:01:04] [Server thread/INFO]: Johaanw issued server command: /give Johaanw minecraft:snowball 16
+[06:01:04] [Server thread/INFO]: [Johaanw: Gave 16 [Snowball] to Johaanw]
+[06:01:25] [Server thread/INFO]: Johaanw issued server command: /give Johaanw minecraft:snowball 16
+[06:01:25] [Server thread/INFO]: [Johaanw: Gave 16 [Snowball] to Johaanw]
+[06:02:02] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[06:02:08] [Server thread/INFO]: Johaanw issued server command: /tpaccept
