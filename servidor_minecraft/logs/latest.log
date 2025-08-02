@@ -78,3 +78,22 @@
 [03:09:15] [Server thread/INFO]: XJeampier joined the game
 [03:09:15] [Server thread/INFO]: XJeampier[/127.215.103.76:40965] logged in with entity id 778 at ([world]-409.06160594303327, 103.0, -275.01245651243875)
 [03:11:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Johaanw> on tas chamo :V
+[03:15:26] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[03:15:26] [Server thread/INFO]: Johaanw left the game
+[03:16:21] [User Authenticator #2/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[03:16:22] [Server thread/INFO]: Johaanw joined the game
+[03:16:22] [Server thread/INFO]: Johaanw[/127.180.57.64:47287] logged in with entity id 1638 at ([world]-384.5865536600758, 101.0, -295.4086394138417)
+[03:19:00] [Server thread/INFO]: Johaanw issued server command: /give Johaanw minecraft:leather 25
+[03:19:00] [Server thread/INFO]: [Johaanw: Gave 25 [Leather] to Johaanw]
+[03:19:36] [Server thread/INFO]: Johaanw issued server command: /give Johaanw minecraft:leather 25
+[03:19:36] [Server thread/INFO]: [Johaanw: Gave 25 [Leather] to Johaanw]
+[03:23:01] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[03:23:10] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[03:24:29] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[03:24:29] [Server thread/INFO]: Johaanw left the game
+[03:24:50] [User Authenticator #3/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[03:24:51] [Server thread/INFO]: Johaanw joined the game
+[03:24:51] [Server thread/INFO]: Johaanw[/127.180.57.64:52093] logged in with entity id 2850 at ([world]-384.2614151583354, 101.0, -295.4267012941571)
+[03:29:33] [Server thread/INFO]: Johaanw issued server command: /give Johaanw minecraft:emerald 54
+[03:29:33] [Server thread/INFO]: [Johaanw: Gave 54 [Emerald] to Johaanw]
+[03:32:27] [Server thread/INFO]: XJeampier has made the advancement [Ice Bucket Challenge]
