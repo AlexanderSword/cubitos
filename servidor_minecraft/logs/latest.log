@@ -178,3 +178,24 @@
 [04:42:14] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:56959] logged in with entity id 25614 at ([world]741.3000000119209, 67.0, -742.6999999880791)
 [04:42:34] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
 [04:42:40] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
+[04:46:01] [Server thread/INFO]: RZJULIAN issued server command: /tpa -416 70 -3184
+[04:46:11] [Server thread/INFO]: RZJULIAN issued server command: /tpblock -416 70 -3184
+[04:46:30] [Server thread/INFO]: RZJULIAN issued server command: /tp -416 70 -3184
+[04:47:55] [Server thread/INFO]: RZJULIAN issued server command: /tpa -416 70 -3184
+[04:48:03] [Server thread/INFO]: RZJULIAN issued server command: /tp -416 70 -3184
+[04:48:10] [Server thread/INFO]: RZJULIAN issued server command: /tpblock -416 70 -3184
+[04:48:27] [Server thread/INFO]: RZJULIAN issued server command: /tpyes -416 70 -3184
+[04:48:33] [Server thread/INFO]: RZJULIAN issued server command: /tpyes
+[04:49:36] [Server thread/INFO]: RZJULIAN lost connection: Disconnected
+[04:49:36] [Server thread/INFO]: RZJULIAN left the game
+[04:50:28] [Server thread/INFO]: AimecitaPrOMG lost connection: Disconnected
+[04:50:28] [Server thread/INFO]: AimecitaPrOMG left the game
+[04:51:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:51:30] [User Authenticator #11/INFO]: UUID of player XJeampier is 076b2a99-8909-3132-af0c-67e9e041ac5e
+[04:51:32] [Server thread/INFO]: XJeampier joined the game
+[04:51:32] [Server thread/INFO]: XJeampier[/127.215.103.76:36373] logged in with entity id 26979 at ([world_nether]-17.69999998807907, 102.0, -64.04548367013179)
+[04:52:26] [User Authenticator #11/INFO]: UUID of player Johaanw is 42f47e0a-8535-351e-974a-c497de851e22
+[04:52:27] [Server thread/INFO]: Johaanw joined the game
+[04:52:27] [Server thread/INFO]: Johaanw[/127.180.57.64:34967] logged in with entity id 27184 at ([world]-382.7970909698366, 106.0, -291.91252888701564)
+[04:53:41] [Server thread/INFO]: Johaanw issued server command: /give Johaanw minecraft:potato 40
+[04:53:41] [Server thread/INFO]: [Johaanw: Gave 40 [Potato] to Johaanw]
