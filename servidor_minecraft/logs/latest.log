@@ -171,3 +171,10 @@
 [04:32:29] [User Authenticator #9/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
 [04:32:29] [Server thread/INFO]: AimecitaPrOMG joined the game
 [04:32:29] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:56297] logged in with entity id 22673 at ([world]720.2161650800027, 95.92293597758626, -549.9177377099537)
+[04:33:55] [Server thread/INFO]: AimecitaPrOMG lost connection: Disconnected
+[04:33:55] [Server thread/INFO]: AimecitaPrOMG left the game
+[04:42:13] [User Authenticator #10/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
+[04:42:14] [Server thread/INFO]: AimecitaPrOMG joined the game
+[04:42:14] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:56959] logged in with entity id 25614 at ([world]741.3000000119209, 67.0, -742.6999999880791)
+[04:42:34] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
+[04:42:40] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
