@@ -121,3 +121,8 @@
 [05:34:48] [Server thread/INFO]: [Johaanw: Teleported Johaanw to -40.500000, 103.000000, -28.500000]
 [05:34:55] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
 [05:34:55] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[05:38:37] [Server thread/INFO]: XJeampier lost connection: Disconnected
+[05:38:37] [Server thread/INFO]: XJeampier left the game
+[05:38:45] [Server thread/INFO]: Johaanw lost connection: Disconnected
+[05:38:45] [Server thread/INFO]: Johaanw left the game
+[05:39:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
