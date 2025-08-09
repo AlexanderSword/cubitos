@@ -116,3 +116,37 @@
 [04:06:23] [User Authenticator #4/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
 [04:06:24] [Server thread/INFO]: AimecitaPrOMG joined the game
 [04:06:24] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:58961] logged in with entity id 13624 at ([world]210.87486586588187, 81.0, 351.7469982506535)
+[04:09:12] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
+[04:09:22] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
+[04:09:43] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[04:09:43] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[04:09:57] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[04:09:57] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[04:10:54] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[04:10:54] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[04:10:59] [Server thread/INFO]: Johaanw issued server command: /locate structure minecraft:stronghold
+[04:10:59] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[04:11:01] [Server thread/INFO]: Johaanw issued server command: /tp @s 1744 ~ -128
+[04:11:01] [Server thread/INFO]: [Johaanw: Teleported Johaanw to 1744.500000, -43.000000, -127.500000]
+[04:11:14] [Server thread/INFO]: Johaanw has made the advancement [Eye Spy]
+[04:11:26] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[04:11:33] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[04:11:33] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[04:11:35] [Server thread/INFO]: RZJULIAN issued server command: /tpa
+[04:11:43] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa Johaanw
+[04:11:44] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[04:11:47] [Server thread/INFO]: Johaanw issued server command: /gamemode spectator
+[04:11:47] [Server thread/INFO]: [Johaanw: Set own game mode to Spectator Mode]
+[04:11:56] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[04:11:58] [Server thread/INFO]: RZJULIAN issued server command: /tpa XJeampier
+[04:12:00] [Server thread/INFO]: Johaanw issued server command: /gamemode survival
+[04:12:00] [Server thread/INFO]: [Johaanw: Set own game mode to Survival Mode]
+[04:12:01] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[04:12:06] [Server thread/INFO]: Johaanw issued server command: /tp XJeampier Johaanw
+[04:12:06] [Server thread/INFO]: [Johaanw: Teleported XJeampier to Johaanw]
+[04:12:06] [Server thread/INFO]: AimecitaPrOMG has made the advancement [Eye Spy]
+[04:12:07] [Server thread/INFO]: XJeampier has made the advancement [Eye Spy]
+[04:12:09] [Server thread/INFO]: XJeampier issued server command: /tpaccept
+[04:12:15] [Server thread/INFO]: RZJULIAN has made the advancement [Eye Spy]
+[04:17:32] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[04:17:34] [Server thread/INFO]: Johaanw issued server command: /tpaccept
