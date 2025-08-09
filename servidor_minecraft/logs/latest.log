@@ -150,3 +150,12 @@
 [04:12:15] [Server thread/INFO]: RZJULIAN has made the advancement [Eye Spy]
 [04:17:32] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
 [04:17:34] [Server thread/INFO]: Johaanw issued server command: /tpaccept
+[04:19:42] [Server thread/INFO]: XJeampier issued server command: /back
+[04:20:07] [Server thread/INFO]: AimecitaPrOMG issued server command: /tell RZJULIAN ola
+[04:20:19] [Async Chat Thread - #6/INFO]: [Not Secure] <RZJULIAN> 1945 -27 -199
+[04:20:23] [Server thread/INFO]: AimecitaPrOMG issued server command: /tell RZJULIAN teamo
+[04:21:13] [Server thread/INFO]: Johaanw issued server command: /back
+[04:24:29] [Server thread/INFO]: AimecitaPrOMG issued server command: /tpa RZJULIAN
+[04:24:32] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
+[04:27:48] [Server thread/INFO]: Johaanw issued server command: /tpa XJeampier
+[04:27:54] [Server thread/INFO]: XJeampier issued server command: /tpaccept
