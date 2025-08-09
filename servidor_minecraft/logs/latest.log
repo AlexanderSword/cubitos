@@ -99,3 +99,20 @@
 [03:43:39] [Server thread/INFO]: XJeampier[/127.32.136.207:49447] logged in with entity id 1928 at ([world_nether]748.025761941064, 28.0, 707.6968741945193)
 [03:43:40] [Server thread/INFO]: Johaanw issued server command: /tp XJeampier Johaanw
 [03:43:40] [Server thread/INFO]: [Johaanw: Teleported XJeampier to Johaanw]
+[03:49:35] [Async Chat Thread - #0/INFO]: [Not Secure] <RZJULIAN> 1748 ~ -124
+[03:50:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Johaanw> 1748 -124
+[03:53:17] [Async Chat Thread - #3/INFO]: [Not Secure] <Johaanw> 1748 -124
+[04:00:12] [Server thread/INFO]: Johaanw issued server command: /tp XJeampier
+[04:00:12] [Server thread/INFO]: [Johaanw: Teleported Johaanw to XJeampier]
+[04:00:35] [Server thread/INFO]: Johaanw issued server command: /tpa RZJULIAN
+[04:00:37] [Server thread/INFO]: RZJULIAN issued server command: /tpaccept
+[04:00:42] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[04:00:53] [Server thread/INFO]: XJeampier issued server command: /tpa Johaanw
+[04:00:58] [Server thread/INFO]: Johaanw issued server command: /tp XJeampier Johaanw
+[04:00:58] [Server thread/INFO]: [Johaanw: Teleported XJeampier to Johaanw]
+[04:03:03] [Server thread/INFO]: Johaanw issued server command: /locate structure minecraft:stronghold
+[04:03:04] [Server thread/INFO]: Locating element minecraft:stronghold took 14 ms
+[04:05:27] [Server thread/WARN]: RZJULIAN moved wrongly!
+[04:06:23] [User Authenticator #4/INFO]: UUID of player AimecitaPrOMG is 82c3267f-e821-36d6-8687-05dc0494f7b3
+[04:06:24] [Server thread/INFO]: AimecitaPrOMG joined the game
+[04:06:24] [Server thread/INFO]: AimecitaPrOMG[/127.184.113.71:58961] logged in with entity id 13624 at ([world]210.87486586588187, 81.0, 351.7469982506535)
